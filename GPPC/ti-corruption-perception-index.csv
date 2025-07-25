@@ -1,0 +1,2404 @@
+,Country,Year,Corruption Index,World Region
+0,Afghanistan,2012,8.0,Asia
+1,Afghanistan,2013,8.0,Asia
+2,Afghanistan,2014,12.0,Asia
+3,Afghanistan,2015,11.0,Asia
+4,Afghanistan,2016,15.0,Asia
+5,Afghanistan,2017,15.0,Asia
+6,Afghanistan,2018,16.0,Asia
+7,Afghanistan,2019,16.0,Asia
+8,Afghanistan,2020,19.0,Asia
+9,Afghanistan,2021,16.0,Asia
+10,Afghanistan,2022,24.0,Asia
+11,Afghanistan,2023,20.0,Asia
+12,Afghanistan,2024,17.0,Asia
+13,Aland Islands,2023,43.02595155709343,Europe
+14,Albania,2012,33.0,Europe
+15,Albania,2013,31.0,Europe
+16,Albania,2014,33.0,Europe
+17,Albania,2015,36.0,Europe
+18,Albania,2016,39.0,Europe
+19,Albania,2017,38.0,Europe
+20,Albania,2018,36.0,Europe
+21,Albania,2019,35.0,Europe
+22,Albania,2020,36.0,Europe
+23,Albania,2021,35.0,Europe
+24,Albania,2022,36.0,Europe
+25,Albania,2023,37.0,Europe
+26,Albania,2024,42.0,Europe
+27,Algeria,2012,34.0,Europe
+28,Algeria,2013,36.0,Europe
+29,Algeria,2014,36.0,Europe
+30,Algeria,2015,36.0,Europe
+31,Algeria,2016,34.0,Europe
+32,Algeria,2017,33.0,Europe
+33,Algeria,2018,35.0,Europe
+34,Algeria,2019,35.0,Europe
+35,Algeria,2020,36.0,Europe
+36,Algeria,2021,33.0,Europe
+37,Algeria,2022,33.0,Europe
+38,Algeria,2023,36.0,Africa
+39,Algeria,2024,34.0,Africa
+40,American Samoa,2023,43.02595155709343,Oceania
+41,Andorra,2023,43.02595155709343,Europe
+42,Angola,2012,22.0,Europe
+43,Angola,2013,23.0,Europe
+44,Angola,2014,19.0,Europe
+45,Angola,2015,15.0,Europe
+46,Angola,2016,18.0,Europe
+47,Angola,2017,19.0,Europe
+48,Angola,2018,19.0,Europe
+49,Angola,2019,26.0,Europe
+50,Angola,2020,27.0,Europe
+51,Angola,2021,29.0,Europe
+52,Angola,2022,33.0,Europe
+53,Angola,2023,33.0,Africa
+54,Angola,2024,32.0,Africa
+55,Anguilla,2023,43.02595155709343,North America
+56,Antigua and Barbuda,2023,43.02595155709343,North America
+57,Argentina,2012,35.0,North America
+58,Argentina,2013,34.0,North America
+59,Argentina,2014,34.0,North America
+60,Argentina,2015,32.0,North America
+61,Argentina,2016,36.0,North America
+62,Argentina,2017,39.0,North America
+63,Argentina,2018,40.0,North America
+64,Argentina,2019,45.0,North America
+65,Argentina,2020,42.0,North America
+66,Argentina,2021,38.0,North America
+67,Argentina,2022,38.0,North America
+68,Argentina,2023,37.0,South America
+69,Argentina,2024,37.0,South America
+70,Armenia,2012,34.0,South America
+71,Armenia,2013,36.0,South America
+72,Armenia,2014,37.0,South America
+73,Armenia,2015,35.0,South America
+74,Armenia,2016,33.0,South America
+75,Armenia,2017,35.0,South America
+76,Armenia,2018,35.0,South America
+77,Armenia,2019,42.0,South America
+78,Armenia,2020,49.0,South America
+79,Armenia,2021,49.0,South America
+80,Armenia,2022,46.0,South America
+81,Armenia,2023,47.0,Asia
+82,Armenia,2024,47.0,Asia
+83,Aruba,2023,43.02595155709343,North America
+84,Australia,2012,85.0,North America
+85,Australia,2013,81.0,North America
+86,Australia,2014,80.0,North America
+87,Australia,2015,79.0,North America
+88,Australia,2016,79.0,North America
+89,Australia,2017,77.0,North America
+90,Australia,2018,77.0,North America
+91,Australia,2019,77.0,North America
+92,Australia,2020,77.0,North America
+93,Australia,2021,73.0,North America
+94,Australia,2022,75.0,North America
+95,Australia,2023,75.0,Oceania
+96,Australia,2024,77.0,Oceania
+97,Austria,2012,69.0,Oceania
+98,Austria,2013,69.0,Oceania
+99,Austria,2014,72.0,Oceania
+100,Austria,2015,76.0,Oceania
+101,Austria,2016,75.0,Oceania
+102,Austria,2017,75.0,Oceania
+103,Austria,2018,76.0,Oceania
+104,Austria,2019,77.0,Oceania
+105,Austria,2020,76.0,Oceania
+106,Austria,2021,74.0,Oceania
+107,Austria,2022,71.0,Oceania
+108,Austria,2023,71.0,Europe
+109,Austria,2024,67.0,Europe
+110,Austria-Hungary,2023,43.02595155709343,Europe
+111,Azerbaijan,2012,27.0,Europe
+112,Azerbaijan,2013,28.0,Europe
+113,Azerbaijan,2014,29.0,Europe
+114,Azerbaijan,2015,29.0,Europe
+115,Azerbaijan,2016,30.0,Europe
+116,Azerbaijan,2017,31.0,Europe
+117,Azerbaijan,2018,25.0,Europe
+118,Azerbaijan,2019,30.0,Europe
+119,Azerbaijan,2020,30.0,Europe
+120,Azerbaijan,2021,30.0,Europe
+121,Azerbaijan,2022,23.0,Europe
+122,Azerbaijan,2023,23.0,Asia
+123,Azerbaijan,2024,22.0,Asia
+124,Bahamas,2012,71.0,Asia
+125,Bahamas,2013,71.0,Asia
+126,Bahamas,2014,71.0,Asia
+127,Bahamas,2016,66.0,Asia
+128,Bahamas,2017,65.0,Asia
+129,Bahamas,2018,65.0,Asia
+130,Bahamas,2019,64.0,Asia
+131,Bahamas,2020,63.0,Asia
+132,Bahamas,2021,64.0,Asia
+133,Bahamas,2022,64.0,Asia
+134,Bahamas,2023,64.0,North America
+135,Bahamas,2024,65.0,North America
+136,Bahrain,2012,51.0,North America
+137,Bahrain,2013,48.0,North America
+138,Bahrain,2014,49.0,North America
+139,Bahrain,2015,51.0,North America
+140,Bahrain,2016,43.0,North America
+141,Bahrain,2017,36.0,North America
+142,Bahrain,2018,36.0,North America
+143,Bahrain,2019,42.0,North America
+144,Bahrain,2020,42.0,North America
+145,Bahrain,2021,42.0,North America
+146,Bahrain,2022,44.0,North America
+147,Bahrain,2023,42.0,Asia
+148,Bahrain,2024,53.0,Asia
+149,Bangladesh,2012,26.0,Asia
+150,Bangladesh,2013,27.0,Asia
+151,Bangladesh,2014,25.0,Asia
+152,Bangladesh,2015,25.0,Asia
+153,Bangladesh,2016,26.0,Asia
+154,Bangladesh,2017,28.0,Asia
+155,Bangladesh,2018,26.0,Asia
+156,Bangladesh,2019,26.0,Asia
+157,Bangladesh,2020,26.0,Asia
+158,Bangladesh,2021,26.0,Asia
+159,Bangladesh,2022,25.0,Asia
+160,Bangladesh,2023,24.0,Asia
+161,Bangladesh,2024,23.0,Asia
+162,Barbados,2012,76.0,Asia
+163,Barbados,2013,75.0,Asia
+164,Barbados,2014,74.0,Asia
+165,Barbados,2016,61.0,Asia
+166,Barbados,2017,68.0,Asia
+167,Barbados,2018,68.0,Asia
+168,Barbados,2019,62.0,Asia
+169,Barbados,2020,64.0,Asia
+170,Barbados,2021,65.0,Asia
+171,Barbados,2022,65.0,Asia
+172,Barbados,2023,69.0,North America
+173,Barbados,2024,68.0,North America
+174,Belarus,2012,31.0,North America
+175,Belarus,2013,29.0,North America
+176,Belarus,2014,31.0,North America
+177,Belarus,2015,32.0,North America
+178,Belarus,2016,40.0,North America
+179,Belarus,2017,44.0,North America
+180,Belarus,2018,44.0,North America
+181,Belarus,2019,45.0,North America
+182,Belarus,2020,47.0,North America
+183,Belarus,2021,41.0,North America
+184,Belarus,2022,39.0,North America
+185,Belarus,2023,37.0,Europe
+186,Belarus,2024,33.0,Europe
+187,Belgium,2012,75.0,Europe
+188,Belgium,2013,75.0,Europe
+189,Belgium,2014,76.0,Europe
+190,Belgium,2015,77.0,Europe
+191,Belgium,2016,77.0,Europe
+192,Belgium,2017,75.0,Europe
+193,Belgium,2018,75.0,Europe
+194,Belgium,2019,75.0,Europe
+195,Belgium,2020,76.0,Europe
+196,Belgium,2021,73.0,Europe
+197,Belgium,2022,73.0,Europe
+198,Belgium,2023,73.0,Europe
+199,Belgium,2024,69.0,Europe
+200,Belize,2023,43.02595155709343,North America
+201,Benin,2012,36.0,North America
+202,Benin,2013,36.0,North America
+203,Benin,2014,39.0,North America
+204,Benin,2015,37.0,North America
+205,Benin,2016,36.0,North America
+206,Benin,2017,39.0,North America
+207,Benin,2018,40.0,North America
+208,Benin,2019,41.0,North America
+209,Benin,2020,41.0,North America
+210,Benin,2021,42.0,North America
+211,Benin,2022,43.0,North America
+212,Benin,2023,43.0,Africa
+213,Benin,2024,45.0,Africa
+214,Bermuda,2023,43.02595155709343,North America
+215,Bhutan,2012,63.0,North America
+216,Bhutan,2013,63.0,North America
+217,Bhutan,2014,65.0,North America
+218,Bhutan,2015,65.0,North America
+219,Bhutan,2016,65.0,North America
+220,Bhutan,2017,67.0,North America
+221,Bhutan,2018,68.0,North America
+222,Bhutan,2019,68.0,North America
+223,Bhutan,2020,68.0,North America
+224,Bhutan,2021,68.0,North America
+225,Bhutan,2022,68.0,North America
+226,Bhutan,2023,68.0,Asia
+227,Bhutan,2024,72.0,Asia
+228,Bolivia,2012,34.0,Asia
+229,Bolivia,2013,34.0,Asia
+230,Bolivia,2014,35.0,Asia
+231,Bolivia,2015,34.0,Asia
+232,Bolivia,2016,33.0,Asia
+233,Bolivia,2017,33.0,Asia
+234,Bolivia,2018,29.0,Asia
+235,Bolivia,2019,31.0,Asia
+236,Bolivia,2020,31.0,Asia
+237,Bolivia,2021,30.0,Asia
+238,Bolivia,2022,31.0,Asia
+239,Bolivia,2023,29.0,South America
+240,Bolivia,2024,28.0,South America
+241,Bonaire Sint Eustatius and Saba,2023,43.02595155709343,North America
+242,Bosnia and Herzegovina,2012,42.0,North America
+243,Bosnia and Herzegovina,2013,42.0,North America
+244,Bosnia and Herzegovina,2014,39.0,North America
+245,Bosnia and Herzegovina,2015,38.0,North America
+246,Bosnia and Herzegovina,2016,39.0,North America
+247,Bosnia and Herzegovina,2017,38.0,North America
+248,Bosnia and Herzegovina,2018,38.0,North America
+249,Bosnia and Herzegovina,2019,36.0,North America
+250,Bosnia and Herzegovina,2020,35.0,North America
+251,Bosnia and Herzegovina,2021,35.0,North America
+252,Bosnia and Herzegovina,2022,34.0,North America
+253,Bosnia and Herzegovina,2023,35.0,Europe
+254,Bosnia and Herzegovina,2024,33.0,Europe
+255,Botswana,2012,65.0,Europe
+256,Botswana,2013,64.0,Europe
+257,Botswana,2014,63.0,Europe
+258,Botswana,2015,63.0,Europe
+259,Botswana,2016,60.0,Europe
+260,Botswana,2017,61.0,Europe
+261,Botswana,2018,61.0,Europe
+262,Botswana,2019,61.0,Europe
+263,Botswana,2020,60.0,Europe
+264,Botswana,2021,55.0,Europe
+265,Botswana,2022,60.0,Europe
+266,Botswana,2023,59.0,Africa
+267,Botswana,2024,57.0,Africa
+268,Brazil,2012,43.0,Africa
+269,Brazil,2013,42.0,Africa
+270,Brazil,2014,43.0,Africa
+271,Brazil,2015,38.0,Africa
+272,Brazil,2016,40.0,Africa
+273,Brazil,2017,37.0,Africa
+274,Brazil,2018,35.0,Africa
+275,Brazil,2019,35.0,Africa
+276,Brazil,2020,38.0,Africa
+277,Brazil,2021,38.0,Africa
+278,Brazil,2022,38.0,Africa
+279,Brazil,2023,36.0,South America
+280,Brazil,2024,34.0,South America
+281,British Indian Ocean Territory,2023,43.02595155709343,Asia
+282,British Virgin Islands,2023,43.02595155709343,North America
+283,Brunei,2012,55.0,North America
+284,Brunei,2013,60.0,North America
+285,Brunei,2016,58.0,North America
+286,Brunei,2017,62.0,North America
+287,Brunei,2018,63.0,North America
+288,Brunei,2019,60.0,North America
+289,Brunei,2020,60.0,North America
+290,Brunei,2023,43.02595155709343,Asia
+291,Bulgaria,2012,41.0,Asia
+292,Bulgaria,2013,41.0,Asia
+293,Bulgaria,2014,43.0,Asia
+294,Bulgaria,2015,41.0,Asia
+295,Bulgaria,2016,41.0,Asia
+296,Bulgaria,2017,43.0,Asia
+297,Bulgaria,2018,42.0,Asia
+298,Bulgaria,2019,43.0,Asia
+299,Bulgaria,2020,44.0,Asia
+300,Bulgaria,2021,42.0,Asia
+301,Bulgaria,2022,43.0,Asia
+302,Bulgaria,2023,45.0,Europe
+303,Bulgaria,2024,43.0,Europe
+304,Burkina Faso,2012,38.0,Europe
+305,Burkina Faso,2013,38.0,Europe
+306,Burkina Faso,2014,38.0,Europe
+307,Burkina Faso,2015,38.0,Europe
+308,Burkina Faso,2016,42.0,Europe
+309,Burkina Faso,2017,42.0,Europe
+310,Burkina Faso,2018,41.0,Europe
+311,Burkina Faso,2019,40.0,Europe
+312,Burkina Faso,2020,40.0,Europe
+313,Burkina Faso,2021,42.0,Europe
+314,Burkina Faso,2022,42.0,Europe
+315,Burkina Faso,2023,41.0,Africa
+316,Burkina Faso,2024,41.0,Africa
+317,Burundi,2012,19.0,Africa
+318,Burundi,2013,21.0,Africa
+319,Burundi,2014,20.0,Africa
+320,Burundi,2015,21.0,Africa
+321,Burundi,2016,20.0,Africa
+322,Burundi,2017,22.0,Africa
+323,Burundi,2018,17.0,Africa
+324,Burundi,2019,19.0,Africa
+325,Burundi,2020,19.0,Africa
+326,Burundi,2021,19.0,Africa
+327,Burundi,2022,17.0,Africa
+328,Burundi,2023,20.0,Africa
+329,Burundi,2024,17.0,Africa
+330,Cambodia,2012,22.0,Africa
+331,Cambodia,2013,20.0,Africa
+332,Cambodia,2014,21.0,Africa
+333,Cambodia,2015,21.0,Africa
+334,Cambodia,2016,21.0,Africa
+335,Cambodia,2017,21.0,Africa
+336,Cambodia,2018,20.0,Africa
+337,Cambodia,2019,20.0,Africa
+338,Cambodia,2020,21.0,Africa
+339,Cambodia,2021,23.0,Africa
+340,Cambodia,2022,24.0,Africa
+341,Cambodia,2023,22.0,Asia
+342,Cambodia,2024,21.0,Asia
+343,Cameroon,2012,26.0,Asia
+344,Cameroon,2013,25.0,Asia
+345,Cameroon,2014,27.0,Asia
+346,Cameroon,2015,27.0,Asia
+347,Cameroon,2016,26.0,Asia
+348,Cameroon,2017,25.0,Asia
+349,Cameroon,2018,25.0,Asia
+350,Cameroon,2019,25.0,Asia
+351,Cameroon,2020,25.0,Asia
+352,Cameroon,2021,27.0,Asia
+353,Cameroon,2022,26.0,Asia
+354,Cameroon,2023,27.0,Africa
+355,Cameroon,2024,26.0,Africa
+356,Canada,2012,84.0,Africa
+357,Canada,2013,81.0,Africa
+358,Canada,2014,81.0,Africa
+359,Canada,2015,83.0,Africa
+360,Canada,2016,82.0,Africa
+361,Canada,2017,82.0,Africa
+362,Canada,2018,81.0,Africa
+363,Canada,2019,77.0,Africa
+364,Canada,2020,77.0,Africa
+365,Canada,2021,74.0,Africa
+366,Canada,2022,74.0,Africa
+367,Canada,2023,76.0,North America
+368,Canada,2024,75.0,North America
+369,Cape Verde,2012,60.0,North America
+370,Cape Verde,2013,58.0,North America
+371,Cape Verde,2014,57.0,North America
+372,Cape Verde,2015,55.0,North America
+373,Cape Verde,2016,59.0,North America
+374,Cape Verde,2017,55.0,North America
+375,Cape Verde,2018,57.0,North America
+376,Cape Verde,2019,58.0,North America
+377,Cape Verde,2020,58.0,North America
+378,Cape Verde,2021,58.0,North America
+379,Cape Verde,2022,60.0,North America
+380,Cape Verde,2023,64.0,Africa
+381,Cape Verde,2024,62.0,Africa
+382,Cayman Islands,2023,43.02595155709343,North America
+383,Central African Republic,2012,26.0,North America
+384,Central African Republic,2013,25.0,North America
+385,Central African Republic,2014,24.0,North America
+386,Central African Republic,2015,24.0,North America
+387,Central African Republic,2016,20.0,North America
+388,Central African Republic,2017,23.0,North America
+389,Central African Republic,2018,26.0,North America
+390,Central African Republic,2019,25.0,North America
+391,Central African Republic,2020,26.0,North America
+392,Central African Republic,2021,24.0,North America
+393,Central African Republic,2022,24.0,North America
+394,Central African Republic,2023,24.0,Africa
+395,Central African Republic,2024,24.0,Africa
+396,Chad,2012,19.0,Africa
+397,Chad,2013,19.0,Africa
+398,Chad,2014,22.0,Africa
+399,Chad,2015,22.0,Africa
+400,Chad,2016,20.0,Africa
+401,Chad,2017,20.0,Africa
+402,Chad,2018,19.0,Africa
+403,Chad,2019,20.0,Africa
+404,Chad,2020,21.0,Africa
+405,Chad,2021,20.0,Africa
+406,Chad,2022,19.0,Africa
+407,Chad,2023,20.0,Africa
+408,Chad,2024,21.0,Africa
+409,Chile,2012,72.0,Africa
+410,Chile,2013,71.0,Africa
+411,Chile,2014,73.0,Africa
+412,Chile,2015,70.0,Africa
+413,Chile,2016,66.0,Africa
+414,Chile,2017,67.0,Africa
+415,Chile,2018,67.0,Africa
+416,Chile,2019,67.0,Africa
+417,Chile,2020,67.0,Africa
+418,Chile,2021,67.0,Africa
+419,Chile,2022,67.0,Africa
+420,Chile,2023,66.0,South America
+421,Chile,2024,63.0,South America
+422,China,2012,39.0,South America
+423,China,2013,40.0,South America
+424,China,2014,36.0,South America
+425,China,2015,37.0,South America
+426,China,2016,40.0,South America
+427,China,2017,41.0,South America
+428,China,2018,39.0,South America
+429,China,2019,41.0,South America
+430,China,2020,42.0,South America
+431,China,2021,45.0,South America
+432,China,2022,45.0,South America
+433,China,2023,42.0,Asia
+434,China,2024,43.0,Asia
+435,Christmas Island,2023,43.02595155709343,Asia
+436,Cocos Islands,2023,43.02595155709343,Asia
+437,Colombia,2012,36.0,Asia
+438,Colombia,2013,36.0,Asia
+439,Colombia,2014,37.0,Asia
+440,Colombia,2015,37.0,Asia
+441,Colombia,2016,37.0,Asia
+442,Colombia,2017,37.0,Asia
+443,Colombia,2018,36.0,Asia
+444,Colombia,2019,37.0,Asia
+445,Colombia,2020,39.0,Asia
+446,Colombia,2021,39.0,Asia
+447,Colombia,2022,39.0,Asia
+448,Colombia,2023,40.0,South America
+449,Colombia,2024,39.0,South America
+450,Comoros,2012,28.0,South America
+451,Comoros,2013,28.0,South America
+452,Comoros,2014,26.0,South America
+453,Comoros,2015,26.0,South America
+454,Comoros,2016,24.0,South America
+455,Comoros,2017,27.0,South America
+456,Comoros,2018,27.0,South America
+457,Comoros,2019,25.0,South America
+458,Comoros,2020,21.0,South America
+459,Comoros,2021,20.0,South America
+460,Comoros,2022,19.0,South America
+461,Comoros,2023,20.0,Africa
+462,Comoros,2024,21.0,Africa
+463,Congo,2012,26.0,Africa
+464,Congo,2013,22.0,Africa
+465,Congo,2014,23.0,Africa
+466,Congo,2015,23.0,Africa
+467,Congo,2016,20.0,Africa
+468,Congo,2017,21.0,Africa
+469,Congo,2018,19.0,Africa
+470,Congo,2019,19.0,Africa
+471,Congo,2020,19.0,Africa
+472,Congo,2021,21.0,Africa
+473,Congo,2022,21.0,Africa
+474,Congo,2023,22.0,Africa
+475,Congo,2024,23.0,Africa
+476,Cook Islands,2023,43.02595155709343,Oceania
+477,Costa Rica,2012,54.0,Oceania
+478,Costa Rica,2013,53.0,Oceania
+479,Costa Rica,2014,54.0,Oceania
+480,Costa Rica,2015,55.0,Oceania
+481,Costa Rica,2016,58.0,Oceania
+482,Costa Rica,2017,59.0,Oceania
+483,Costa Rica,2018,56.0,Oceania
+484,Costa Rica,2019,56.0,Oceania
+485,Costa Rica,2020,57.0,Oceania
+486,Costa Rica,2021,58.0,Oceania
+487,Costa Rica,2022,54.0,Oceania
+488,Costa Rica,2023,55.0,North America
+489,Costa Rica,2024,58.0,North America
+490,Cote d'Ivoire,2012,29.0,North America
+491,Cote d'Ivoire,2013,27.0,North America
+492,Cote d'Ivoire,2014,32.0,North America
+493,Cote d'Ivoire,2015,32.0,North America
+494,Cote d'Ivoire,2016,34.0,North America
+495,Cote d'Ivoire,2017,36.0,North America
+496,Cote d'Ivoire,2018,35.0,North America
+497,Cote d'Ivoire,2019,35.0,North America
+498,Cote d'Ivoire,2020,36.0,North America
+499,Cote d'Ivoire,2021,36.0,North America
+500,Cote d'Ivoire,2022,37.0,North America
+501,Cote d'Ivoire,2023,40.0,Africa
+502,Cote d'Ivoire,2024,45.0,Africa
+503,Croatia,2012,46.0,Africa
+504,Croatia,2013,48.0,Africa
+505,Croatia,2014,48.0,Africa
+506,Croatia,2015,51.0,Africa
+507,Croatia,2016,49.0,Africa
+508,Croatia,2017,49.0,Africa
+509,Croatia,2018,48.0,Africa
+510,Croatia,2019,47.0,Africa
+511,Croatia,2020,47.0,Africa
+512,Croatia,2021,47.0,Africa
+513,Croatia,2022,50.0,Africa
+514,Croatia,2023,50.0,Europe
+515,Croatia,2024,47.0,Europe
+516,Cuba,2012,48.0,Europe
+517,Cuba,2013,46.0,Europe
+518,Cuba,2014,46.0,Europe
+519,Cuba,2015,47.0,Europe
+520,Cuba,2016,47.0,Europe
+521,Cuba,2017,47.0,Europe
+522,Cuba,2018,47.0,Europe
+523,Cuba,2019,48.0,Europe
+524,Cuba,2020,47.0,Europe
+525,Cuba,2021,46.0,Europe
+526,Cuba,2022,45.0,Europe
+527,Cuba,2023,42.0,North America
+528,Cuba,2024,41.0,North America
+529,Curacao,2023,43.02595155709343,North America
+530,Cyprus,2012,66.0,North America
+531,Cyprus,2013,63.0,North America
+532,Cyprus,2014,63.0,North America
+533,Cyprus,2015,61.0,North America
+534,Cyprus,2016,55.0,North America
+535,Cyprus,2017,57.0,North America
+536,Cyprus,2018,59.0,North America
+537,Cyprus,2019,58.0,North America
+538,Cyprus,2020,57.0,North America
+539,Cyprus,2021,53.0,North America
+540,Cyprus,2022,52.0,North America
+541,Cyprus,2023,53.0,Europe
+542,Cyprus,2024,56.0,Europe
+543,Czechia,2012,49.0,Europe
+544,Czechia,2013,48.0,Europe
+545,Czechia,2014,51.0,Europe
+546,Czechia,2015,56.0,Europe
+547,Czechia,2016,55.0,Europe
+548,Czechia,2017,57.0,Europe
+549,Czechia,2018,59.0,Europe
+550,Czechia,2019,56.0,Europe
+551,Czechia,2020,54.0,Europe
+552,Czechia,2021,54.0,Europe
+553,Czechia,2022,56.0,Europe
+554,Czechia,2023,57.0,Europe
+555,Czechia,2024,56.0,Europe
+556,Czechoslovakia,2023,43.02595155709343,Europe
+557,Democratic Republic of Congo,2012,21.0,Europe
+558,Democratic Republic of Congo,2013,22.0,Europe
+559,Democratic Republic of Congo,2014,22.0,Europe
+560,Democratic Republic of Congo,2015,22.0,Europe
+561,Democratic Republic of Congo,2016,21.0,Europe
+562,Democratic Republic of Congo,2017,21.0,Europe
+563,Democratic Republic of Congo,2018,20.0,Europe
+564,Democratic Republic of Congo,2019,18.0,Europe
+565,Democratic Republic of Congo,2020,18.0,Europe
+566,Democratic Republic of Congo,2021,19.0,Europe
+567,Democratic Republic of Congo,2022,20.0,Europe
+568,Democratic Republic of Congo,2023,20.0,Africa
+569,Democratic Republic of Congo,2024,20.0,Africa
+570,Democratic Republic of Vietnam,2023,43.02595155709343,Asia
+571,Denmark,2012,90.0,Asia
+572,Denmark,2013,91.0,Asia
+573,Denmark,2014,92.0,Asia
+574,Denmark,2015,91.0,Asia
+575,Denmark,2016,90.0,Asia
+576,Denmark,2017,88.0,Asia
+577,Denmark,2018,88.0,Asia
+578,Denmark,2019,87.0,Asia
+579,Denmark,2020,88.0,Asia
+580,Denmark,2021,88.0,Asia
+581,Denmark,2022,90.0,Asia
+582,Denmark,2023,90.0,Europe
+583,Denmark,2024,90.0,Europe
+584,Djibouti,2012,36.0,Europe
+585,Djibouti,2013,36.0,Europe
+586,Djibouti,2014,34.0,Europe
+587,Djibouti,2015,34.0,Europe
+588,Djibouti,2016,30.0,Europe
+589,Djibouti,2017,31.0,Europe
+590,Djibouti,2018,31.0,Europe
+591,Djibouti,2019,30.0,Europe
+592,Djibouti,2020,27.0,Europe
+593,Djibouti,2021,30.0,Europe
+594,Djibouti,2022,30.0,Europe
+595,Djibouti,2023,30.0,Africa
+596,Djibouti,2024,31.0,Africa
+597,Dominica,2012,58.0,Africa
+598,Dominica,2013,58.0,Africa
+599,Dominica,2014,58.0,Africa
+600,Dominica,2016,59.0,Africa
+601,Dominica,2017,57.0,Africa
+602,Dominica,2018,57.0,Africa
+603,Dominica,2019,55.0,Africa
+604,Dominica,2020,55.0,Africa
+605,Dominica,2021,55.0,Africa
+606,Dominica,2022,55.0,Africa
+607,Dominica,2023,56.0,North America
+608,Dominica,2024,60.0,North America
+609,Dominican Republic,2012,32.0,North America
+610,Dominican Republic,2013,29.0,North America
+611,Dominican Republic,2014,32.0,North America
+612,Dominican Republic,2015,33.0,North America
+613,Dominican Republic,2016,31.0,North America
+614,Dominican Republic,2017,29.0,North America
+615,Dominican Republic,2018,30.0,North America
+616,Dominican Republic,2019,28.0,North America
+617,Dominican Republic,2020,28.0,North America
+618,Dominican Republic,2021,30.0,North America
+619,Dominican Republic,2022,32.0,North America
+620,Dominican Republic,2023,35.0,North America
+621,Dominican Republic,2024,36.0,North America
+622,Duchy of Modena and Reggio,2023,43.02595155709343,Europe
+623,Duchy of Parma and Piacenza,2023,43.02595155709343,Europe
+624,East Germany,2023,43.02595155709343,Europe
+625,East Timor,2012,33.0,Europe
+626,East Timor,2013,30.0,Europe
+627,East Timor,2014,28.0,Europe
+628,East Timor,2015,28.0,Europe
+629,East Timor,2016,35.0,Europe
+630,East Timor,2017,38.0,Europe
+631,East Timor,2018,35.0,Europe
+632,East Timor,2019,38.0,Europe
+633,East Timor,2020,40.0,Europe
+634,East Timor,2021,41.0,Europe
+635,East Timor,2022,42.0,Europe
+636,East Timor,2023,43.0,Asia
+637,East Timor,2024,44.0,Asia
+638,Ecuador,2012,32.0,Asia
+639,Ecuador,2013,35.0,Asia
+640,Ecuador,2014,33.0,Asia
+641,Ecuador,2015,32.0,Asia
+642,Ecuador,2016,31.0,Asia
+643,Ecuador,2017,32.0,Asia
+644,Ecuador,2018,34.0,Asia
+645,Ecuador,2019,38.0,Asia
+646,Ecuador,2020,39.0,Asia
+647,Ecuador,2021,36.0,Asia
+648,Ecuador,2022,36.0,Asia
+649,Ecuador,2023,34.0,South America
+650,Ecuador,2024,32.0,South America
+651,Egypt,2012,32.0,South America
+652,Egypt,2013,32.0,South America
+653,Egypt,2014,37.0,South America
+654,Egypt,2015,36.0,South America
+655,Egypt,2016,34.0,South America
+656,Egypt,2017,32.0,South America
+657,Egypt,2018,35.0,South America
+658,Egypt,2019,35.0,South America
+659,Egypt,2020,33.0,South America
+660,Egypt,2021,33.0,South America
+661,Egypt,2022,30.0,South America
+662,Egypt,2023,35.0,Africa
+663,Egypt,2024,30.0,Africa
+664,El Salvador,2012,38.0,Africa
+665,El Salvador,2013,38.0,Africa
+666,El Salvador,2014,39.0,Africa
+667,El Salvador,2015,39.0,Africa
+668,El Salvador,2016,36.0,Africa
+669,El Salvador,2017,33.0,Africa
+670,El Salvador,2018,35.0,Africa
+671,El Salvador,2019,34.0,Africa
+672,El Salvador,2020,36.0,Africa
+673,El Salvador,2021,34.0,Africa
+674,El Salvador,2022,33.0,Africa
+675,El Salvador,2023,31.0,North America
+676,El Salvador,2024,30.0,North America
+677,Equatorial Guinea,2012,20.0,North America
+678,Equatorial Guinea,2013,19.0,North America
+679,Equatorial Guinea,2017,17.0,North America
+680,Equatorial Guinea,2018,16.0,North America
+681,Equatorial Guinea,2019,16.0,North America
+682,Equatorial Guinea,2020,16.0,North America
+683,Equatorial Guinea,2021,17.0,North America
+684,Equatorial Guinea,2022,17.0,North America
+685,Equatorial Guinea,2023,17.0,Africa
+686,Equatorial Guinea,2024,13.0,Africa
+687,Eritrea,2012,25.0,Africa
+688,Eritrea,2013,20.0,Africa
+689,Eritrea,2014,18.0,Africa
+690,Eritrea,2015,18.0,Africa
+691,Eritrea,2016,18.0,Africa
+692,Eritrea,2017,20.0,Africa
+693,Eritrea,2018,24.0,Africa
+694,Eritrea,2019,23.0,Africa
+695,Eritrea,2020,21.0,Africa
+696,Eritrea,2021,22.0,Africa
+697,Eritrea,2022,22.0,Africa
+698,Eritrea,2023,21.0,Africa
+699,Eritrea,2024,13.0,Africa
+700,Estonia,2012,64.0,Africa
+701,Estonia,2013,68.0,Africa
+702,Estonia,2014,69.0,Africa
+703,Estonia,2015,70.0,Africa
+704,Estonia,2016,70.0,Africa
+705,Estonia,2017,71.0,Africa
+706,Estonia,2018,73.0,Africa
+707,Estonia,2019,74.0,Africa
+708,Estonia,2020,75.0,Africa
+709,Estonia,2021,74.0,Africa
+710,Estonia,2022,74.0,Africa
+711,Estonia,2023,76.0,Europe
+712,Estonia,2024,76.0,Europe
+713,Eswatini,2012,37.0,Europe
+714,Eswatini,2013,39.0,Europe
+715,Eswatini,2014,43.0,Europe
+716,Eswatini,2017,39.0,Europe
+717,Eswatini,2018,38.0,Europe
+718,Eswatini,2019,34.0,Europe
+719,Eswatini,2020,33.0,Europe
+720,Eswatini,2021,32.0,Europe
+721,Eswatini,2022,30.0,Europe
+722,Eswatini,2023,30.0,Africa
+723,Eswatini,2024,27.0,Africa
+724,Ethiopia,2012,33.0,Africa
+725,Ethiopia,2013,33.0,Africa
+726,Ethiopia,2014,33.0,Africa
+727,Ethiopia,2015,33.0,Africa
+728,Ethiopia,2016,34.0,Africa
+729,Ethiopia,2017,35.0,Africa
+730,Ethiopia,2018,34.0,Africa
+731,Ethiopia,2019,37.0,Africa
+732,Ethiopia,2020,38.0,Africa
+733,Ethiopia,2021,39.0,Africa
+734,Ethiopia,2022,38.0,Africa
+735,Ethiopia,2023,37.0,Africa
+736,Ethiopia,2024,37.0,Africa
+737,Ethiopia (former),2023,43.02595155709343,Africa
+738,Falkland Islands,2023,43.02595155709343,South America
+739,Faroe Islands,2023,43.02595155709343,Europe
+740,Federal Republic of Central America,2023,43.02595155709343,North America
+741,Fiji,2021,55.0,North America
+742,Fiji,2022,53.0,North America
+743,Fiji,2023,52.0,Oceania
+744,Fiji,2024,55.0,Oceania
+745,Finland,2012,90.0,Oceania
+746,Finland,2013,89.0,Oceania
+747,Finland,2014,89.0,Oceania
+748,Finland,2015,90.0,Oceania
+749,Finland,2016,89.0,Oceania
+750,Finland,2017,85.0,Oceania
+751,Finland,2018,85.0,Oceania
+752,Finland,2019,86.0,Oceania
+753,Finland,2020,85.0,Oceania
+754,Finland,2021,88.0,Oceania
+755,Finland,2022,87.0,Oceania
+756,Finland,2023,87.0,Europe
+757,Finland,2024,88.0,Europe
+758,France,2012,71.0,Europe
+759,France,2013,71.0,Europe
+760,France,2014,69.0,Europe
+761,France,2015,70.0,Europe
+762,France,2016,69.0,Europe
+763,France,2017,70.0,Europe
+764,France,2018,72.0,Europe
+765,France,2019,69.0,Europe
+766,France,2020,69.0,Europe
+767,France,2021,71.0,Europe
+768,France,2022,72.0,Europe
+769,France,2023,71.0,Europe
+770,France,2024,67.0,Europe
+771,French Guiana,2023,43.02595155709343,South America
+772,French Polynesia,2023,43.02595155709343,Oceania
+773,Gabon,2012,35.0,Oceania
+774,Gabon,2013,34.0,Oceania
+775,Gabon,2014,37.0,Oceania
+776,Gabon,2015,34.0,Oceania
+777,Gabon,2016,35.0,Oceania
+778,Gabon,2017,32.0,Oceania
+779,Gabon,2018,31.0,Oceania
+780,Gabon,2019,31.0,Oceania
+781,Gabon,2020,30.0,Oceania
+782,Gabon,2021,31.0,Oceania
+783,Gabon,2022,29.0,Oceania
+784,Gabon,2023,28.0,Africa
+785,Gabon,2024,27.0,Africa
+786,Gambia,2012,34.0,Africa
+787,Gambia,2013,28.0,Africa
+788,Gambia,2014,29.0,Africa
+789,Gambia,2015,28.0,Africa
+790,Gambia,2016,26.0,Africa
+791,Gambia,2017,30.0,Africa
+792,Gambia,2018,37.0,Africa
+793,Gambia,2019,37.0,Africa
+794,Gambia,2020,37.0,Africa
+795,Gambia,2021,37.0,Africa
+796,Gambia,2022,34.0,Africa
+797,Gambia,2023,37.0,Africa
+798,Gambia,2024,38.0,Africa
+799,Georgia,2012,52.0,Africa
+800,Georgia,2013,49.0,Africa
+801,Georgia,2014,52.0,Africa
+802,Georgia,2015,52.0,Africa
+803,Georgia,2016,57.0,Africa
+804,Georgia,2017,56.0,Africa
+805,Georgia,2018,58.0,Africa
+806,Georgia,2019,56.0,Africa
+807,Georgia,2020,56.0,Africa
+808,Georgia,2021,55.0,Africa
+809,Georgia,2022,56.0,Africa
+810,Georgia,2023,53.0,Asia
+811,Georgia,2024,53.0,Asia
+812,Germany,2012,79.0,Asia
+813,Germany,2013,78.0,Asia
+814,Germany,2014,79.0,Asia
+815,Germany,2015,81.0,Asia
+816,Germany,2016,81.0,Asia
+817,Germany,2017,81.0,Asia
+818,Germany,2018,80.0,Asia
+819,Germany,2019,80.0,Asia
+820,Germany,2020,80.0,Asia
+821,Germany,2021,80.0,Asia
+822,Germany,2022,79.0,Asia
+823,Germany,2023,78.0,Europe
+824,Germany,2024,75.0,Europe
+825,Ghana,2012,45.0,Europe
+826,Ghana,2013,46.0,Europe
+827,Ghana,2014,48.0,Europe
+828,Ghana,2015,47.0,Europe
+829,Ghana,2016,43.0,Europe
+830,Ghana,2017,40.0,Europe
+831,Ghana,2018,41.0,Europe
+832,Ghana,2019,41.0,Europe
+833,Ghana,2020,43.0,Europe
+834,Ghana,2021,43.0,Europe
+835,Ghana,2022,43.0,Europe
+836,Ghana,2023,43.0,Africa
+837,Ghana,2024,42.0,Africa
+838,Gibraltar,2023,43.02595155709343,Europe
+839,Grand Duchy of Baden,2023,43.02595155709343,Europe
+840,Grand Duchy of Tuscany,2023,43.02595155709343,Europe
+841,Great Colombia,2023,43.02595155709343,South America
+842,Greece,2012,36.0,South America
+843,Greece,2013,40.0,South America
+844,Greece,2014,43.0,South America
+845,Greece,2015,46.0,South America
+846,Greece,2016,44.0,South America
+847,Greece,2017,48.0,South America
+848,Greece,2018,45.0,South America
+849,Greece,2019,48.0,South America
+850,Greece,2020,50.0,South America
+851,Greece,2021,49.0,South America
+852,Greece,2022,52.0,South America
+853,Greece,2023,49.0,Europe
+854,Greece,2024,49.0,Europe
+855,Greenland,2023,43.02595155709343,North America
+856,Grenada,2016,56.0,North America
+857,Grenada,2017,52.0,North America
+858,Grenada,2018,52.0,North America
+859,Grenada,2019,53.0,North America
+860,Grenada,2020,53.0,North America
+861,Grenada,2021,53.0,North America
+862,Grenada,2022,52.0,North America
+863,Grenada,2023,53.0,North America
+864,Grenada,2024,56.0,North America
+865,Guadeloupe,2023,43.02595155709343,North America
+866,Guam,2023,43.02595155709343,Oceania
+867,Guatemala,2012,33.0,Oceania
+868,Guatemala,2013,29.0,Oceania
+869,Guatemala,2014,32.0,Oceania
+870,Guatemala,2015,28.0,Oceania
+871,Guatemala,2016,28.0,Oceania
+872,Guatemala,2017,28.0,Oceania
+873,Guatemala,2018,27.0,Oceania
+874,Guatemala,2019,26.0,Oceania
+875,Guatemala,2020,25.0,Oceania
+876,Guatemala,2021,25.0,Oceania
+877,Guatemala,2022,24.0,Oceania
+878,Guatemala,2023,23.0,North America
+879,Guatemala,2024,25.0,North America
+880,Guernsey,2023,43.02595155709343,Europe
+881,Guinea,2012,24.0,Europe
+882,Guinea,2013,24.0,Europe
+883,Guinea,2014,25.0,Europe
+884,Guinea,2015,25.0,Europe
+885,Guinea,2016,27.0,Europe
+886,Guinea,2017,27.0,Europe
+887,Guinea,2018,28.0,Europe
+888,Guinea,2019,29.0,Europe
+889,Guinea,2020,28.0,Europe
+890,Guinea,2021,25.0,Europe
+891,Guinea,2022,25.0,Europe
+892,Guinea,2023,26.0,Africa
+893,Guinea,2024,28.0,Africa
+894,Guinea-Bissau,2012,25.0,Africa
+895,Guinea-Bissau,2013,19.0,Africa
+896,Guinea-Bissau,2014,19.0,Africa
+897,Guinea-Bissau,2015,17.0,Africa
+898,Guinea-Bissau,2016,16.0,Africa
+899,Guinea-Bissau,2017,17.0,Africa
+900,Guinea-Bissau,2018,16.0,Africa
+901,Guinea-Bissau,2019,18.0,Africa
+902,Guinea-Bissau,2020,19.0,Africa
+903,Guinea-Bissau,2021,21.0,Africa
+904,Guinea-Bissau,2022,21.0,Africa
+905,Guinea-Bissau,2023,22.0,Africa
+906,Guinea-Bissau,2024,21.0,Africa
+907,Guyana,2012,28.0,Africa
+908,Guyana,2013,27.0,Africa
+909,Guyana,2014,30.0,Africa
+910,Guyana,2015,29.0,Africa
+911,Guyana,2016,34.0,Africa
+912,Guyana,2017,38.0,Africa
+913,Guyana,2018,37.0,Africa
+914,Guyana,2019,40.0,Africa
+915,Guyana,2020,41.0,Africa
+916,Guyana,2021,39.0,Africa
+917,Guyana,2022,40.0,Africa
+918,Guyana,2023,40.0,South America
+919,Guyana,2024,39.0,South America
+920,Haiti,2012,19.0,South America
+921,Haiti,2013,19.0,South America
+922,Haiti,2014,19.0,South America
+923,Haiti,2015,17.0,South America
+924,Haiti,2016,20.0,South America
+925,Haiti,2017,22.0,South America
+926,Haiti,2018,20.0,South America
+927,Haiti,2019,18.0,South America
+928,Haiti,2020,18.0,South America
+929,Haiti,2021,20.0,South America
+930,Haiti,2022,17.0,South America
+931,Haiti,2023,17.0,North America
+932,Haiti,2024,16.0,North America
+933,Honduras,2012,28.0,North America
+934,Honduras,2013,26.0,North America
+935,Honduras,2014,29.0,North America
+936,Honduras,2015,31.0,North America
+937,Honduras,2016,30.0,North America
+938,Honduras,2017,29.0,North America
+939,Honduras,2018,29.0,North America
+940,Honduras,2019,26.0,North America
+941,Honduras,2020,24.0,North America
+942,Honduras,2021,23.0,North America
+943,Honduras,2022,23.0,North America
+944,Honduras,2023,23.0,North America
+945,Honduras,2024,22.0,North America
+946,Hong Kong,2012,77.0,North America
+947,Hong Kong,2013,75.0,North America
+948,Hong Kong,2014,74.0,North America
+949,Hong Kong,2015,75.0,North America
+950,Hong Kong,2016,77.0,North America
+951,Hong Kong,2017,77.0,North America
+952,Hong Kong,2018,76.0,North America
+953,Hong Kong,2019,76.0,North America
+954,Hong Kong,2020,77.0,North America
+955,Hong Kong,2021,76.0,North America
+956,Hong Kong,2022,76.0,North America
+957,Hong Kong,2023,75.0,Asia
+958,Hong Kong,2024,74.0,Asia
+959,Hungary,2012,55.0,Asia
+960,Hungary,2013,54.0,Asia
+961,Hungary,2014,54.0,Asia
+962,Hungary,2015,51.0,Asia
+963,Hungary,2016,48.0,Asia
+964,Hungary,2017,45.0,Asia
+965,Hungary,2018,46.0,Asia
+966,Hungary,2019,44.0,Asia
+967,Hungary,2020,44.0,Asia
+968,Hungary,2021,43.0,Asia
+969,Hungary,2022,42.0,Asia
+970,Hungary,2023,42.0,Europe
+971,Hungary,2024,41.0,Europe
+972,Iceland,2012,82.0,Europe
+973,Iceland,2013,78.0,Europe
+974,Iceland,2014,79.0,Europe
+975,Iceland,2015,79.0,Europe
+976,Iceland,2016,78.0,Europe
+977,Iceland,2017,77.0,Europe
+978,Iceland,2018,76.0,Europe
+979,Iceland,2019,78.0,Europe
+980,Iceland,2020,75.0,Europe
+981,Iceland,2021,74.0,Europe
+982,Iceland,2022,74.0,Europe
+983,Iceland,2023,72.0,Europe
+984,Iceland,2024,77.0,Europe
+985,India,2012,36.0,Europe
+986,India,2013,36.0,Europe
+987,India,2014,38.0,Europe
+988,India,2015,38.0,Europe
+989,India,2016,40.0,Europe
+990,India,2017,40.0,Europe
+991,India,2018,41.0,Europe
+992,India,2019,41.0,Europe
+993,India,2020,40.0,Europe
+994,India,2021,40.0,Europe
+995,India,2022,40.0,Europe
+996,India,2023,39.0,Asia
+997,India,2024,38.0,Asia
+998,Indonesia,2012,32.0,Asia
+999,Indonesia,2013,32.0,Asia
+1000,Indonesia,2014,34.0,Asia
+1001,Indonesia,2015,36.0,Asia
+1002,Indonesia,2016,37.0,Asia
+1003,Indonesia,2017,37.0,Asia
+1004,Indonesia,2018,38.0,Asia
+1005,Indonesia,2019,40.0,Asia
+1006,Indonesia,2020,37.0,Asia
+1007,Indonesia,2021,38.0,Asia
+1008,Indonesia,2022,34.0,Asia
+1009,Indonesia,2023,34.0,Asia
+1010,Indonesia,2024,37.0,Asia
+1011,Iran,2012,28.0,Asia
+1012,Iran,2013,25.0,Asia
+1013,Iran,2014,27.0,Asia
+1014,Iran,2015,27.0,Asia
+1015,Iran,2016,29.0,Asia
+1016,Iran,2017,30.0,Asia
+1017,Iran,2018,28.0,Asia
+1018,Iran,2019,26.0,Asia
+1019,Iran,2020,25.0,Asia
+1020,Iran,2021,25.0,Asia
+1021,Iran,2022,25.0,Asia
+1022,Iran,2023,24.0,Asia
+1023,Iran,2024,23.0,Asia
+1024,Iraq,2012,18.0,Asia
+1025,Iraq,2013,16.0,Asia
+1026,Iraq,2014,16.0,Asia
+1027,Iraq,2015,16.0,Asia
+1028,Iraq,2016,17.0,Asia
+1029,Iraq,2017,18.0,Asia
+1030,Iraq,2018,18.0,Asia
+1031,Iraq,2019,20.0,Asia
+1032,Iraq,2020,21.0,Asia
+1033,Iraq,2021,23.0,Asia
+1034,Iraq,2022,23.0,Asia
+1035,Iraq,2023,23.0,Asia
+1036,Iraq,2024,26.0,Asia
+1037,Ireland,2012,69.0,Asia
+1038,Ireland,2013,72.0,Asia
+1039,Ireland,2014,74.0,Asia
+1040,Ireland,2015,75.0,Asia
+1041,Ireland,2016,73.0,Asia
+1042,Ireland,2017,74.0,Asia
+1043,Ireland,2018,73.0,Asia
+1044,Ireland,2019,74.0,Asia
+1045,Ireland,2020,72.0,Asia
+1046,Ireland,2021,74.0,Asia
+1047,Ireland,2022,77.0,Asia
+1048,Ireland,2023,77.0,Europe
+1049,Ireland,2024,77.0,Europe
+1050,Isle of Man,2023,43.02595155709343,Europe
+1051,Israel,2012,60.0,Europe
+1052,Israel,2013,61.0,Europe
+1053,Israel,2014,60.0,Europe
+1054,Israel,2015,61.0,Europe
+1055,Israel,2016,64.0,Europe
+1056,Israel,2017,62.0,Europe
+1057,Israel,2018,61.0,Europe
+1058,Israel,2019,60.0,Europe
+1059,Israel,2020,60.0,Europe
+1060,Israel,2021,59.0,Europe
+1061,Israel,2022,63.0,Europe
+1062,Israel,2023,62.0,Asia
+1063,Israel,2024,64.0,Asia
+1064,Italy,2012,42.0,Asia
+1065,Italy,2013,43.0,Asia
+1066,Italy,2014,43.0,Asia
+1067,Italy,2015,44.0,Asia
+1068,Italy,2016,47.0,Asia
+1069,Italy,2017,50.0,Asia
+1070,Italy,2018,52.0,Asia
+1071,Italy,2019,53.0,Asia
+1072,Italy,2020,53.0,Asia
+1073,Italy,2021,56.0,Asia
+1074,Italy,2022,56.0,Asia
+1075,Italy,2023,56.0,Europe
+1076,Italy,2024,54.0,Europe
+1077,Jamaica,2012,38.0,Europe
+1078,Jamaica,2013,38.0,Europe
+1079,Jamaica,2014,38.0,Europe
+1080,Jamaica,2015,41.0,Europe
+1081,Jamaica,2016,39.0,Europe
+1082,Jamaica,2017,44.0,Europe
+1083,Jamaica,2018,44.0,Europe
+1084,Jamaica,2019,43.0,Europe
+1085,Jamaica,2020,44.0,Europe
+1086,Jamaica,2021,44.0,Europe
+1087,Jamaica,2022,44.0,Europe
+1088,Jamaica,2023,44.0,North America
+1089,Jamaica,2024,44.0,North America
+1090,Japan,2012,74.0,North America
+1091,Japan,2013,74.0,North America
+1092,Japan,2014,76.0,North America
+1093,Japan,2015,75.0,North America
+1094,Japan,2016,72.0,North America
+1095,Japan,2017,73.0,North America
+1096,Japan,2018,73.0,North America
+1097,Japan,2019,73.0,North America
+1098,Japan,2020,74.0,North America
+1099,Japan,2021,73.0,North America
+1100,Japan,2022,73.0,North America
+1101,Japan,2023,73.0,Asia
+1102,Japan,2024,71.0,Asia
+1103,Jersey,2023,43.02595155709343,Europe
+1104,Jordan,2012,48.0,Europe
+1105,Jordan,2013,45.0,Europe
+1106,Jordan,2014,49.0,Europe
+1107,Jordan,2015,53.0,Europe
+1108,Jordan,2016,48.0,Europe
+1109,Jordan,2017,48.0,Europe
+1110,Jordan,2018,49.0,Europe
+1111,Jordan,2019,48.0,Europe
+1112,Jordan,2020,49.0,Europe
+1113,Jordan,2021,49.0,Europe
+1114,Jordan,2022,47.0,Europe
+1115,Jordan,2023,46.0,Asia
+1116,Jordan,2024,49.0,Asia
+1117,Kazakhstan,2012,28.0,Asia
+1118,Kazakhstan,2013,26.0,Asia
+1119,Kazakhstan,2014,29.0,Asia
+1120,Kazakhstan,2015,28.0,Asia
+1121,Kazakhstan,2016,29.0,Asia
+1122,Kazakhstan,2017,31.0,Asia
+1123,Kazakhstan,2018,31.0,Asia
+1124,Kazakhstan,2019,34.0,Asia
+1125,Kazakhstan,2020,38.0,Asia
+1126,Kazakhstan,2021,37.0,Asia
+1127,Kazakhstan,2022,36.0,Asia
+1128,Kazakhstan,2023,39.0,Asia
+1129,Kazakhstan,2024,40.0,Asia
+1130,Kenya,2012,27.0,Asia
+1131,Kenya,2013,27.0,Asia
+1132,Kenya,2014,25.0,Asia
+1133,Kenya,2015,25.0,Asia
+1134,Kenya,2016,26.0,Asia
+1135,Kenya,2017,28.0,Asia
+1136,Kenya,2018,27.0,Asia
+1137,Kenya,2019,28.0,Asia
+1138,Kenya,2020,31.0,Asia
+1139,Kenya,2021,30.0,Asia
+1140,Kenya,2022,32.0,Asia
+1141,Kenya,2023,31.0,Africa
+1142,Kenya,2024,32.0,Africa
+1143,Kingdom of Bavaria,2023,43.02595155709343,Europe
+1144,Kingdom of Sardinia,2023,43.02595155709343,Europe
+1145,Kingdom of Saxony,2023,43.02595155709343,Europe
+1146,Kingdom of Wurttemberg,2023,43.02595155709343,Europe
+1147,Kingdom of the Two Sicilies,2023,43.02595155709343,Europe
+1148,Kiribati,2023,43.02595155709343,Oceania
+1149,Korea (former),2023,43.02595155709343,Asia
+1150,Kosovo,2012,34.0,Asia
+1151,Kosovo,2013,33.0,Asia
+1152,Kosovo,2014,33.0,Asia
+1153,Kosovo,2015,33.0,Asia
+1154,Kosovo,2016,36.0,Asia
+1155,Kosovo,2017,39.0,Asia
+1156,Kosovo,2018,37.0,Asia
+1157,Kosovo,2019,36.0,Asia
+1158,Kosovo,2020,36.0,Asia
+1159,Kosovo,2021,39.0,Asia
+1160,Kosovo,2022,41.0,Asia
+1161,Kosovo,2023,41.0,Europe
+1162,Kosovo,2024,44.0,Europe
+1163,Kuwait,2012,44.0,Europe
+1164,Kuwait,2013,43.0,Europe
+1165,Kuwait,2014,44.0,Europe
+1166,Kuwait,2015,49.0,Europe
+1167,Kuwait,2016,41.0,Europe
+1168,Kuwait,2017,39.0,Europe
+1169,Kuwait,2018,41.0,Europe
+1170,Kuwait,2019,40.0,Europe
+1171,Kuwait,2020,42.0,Europe
+1172,Kuwait,2021,43.0,Europe
+1173,Kuwait,2022,42.0,Europe
+1174,Kuwait,2023,46.0,Asia
+1175,Kuwait,2024,46.0,Asia
+1176,Kyrgyzstan,2012,24.0,Asia
+1177,Kyrgyzstan,2013,24.0,Asia
+1178,Kyrgyzstan,2014,27.0,Asia
+1179,Kyrgyzstan,2015,28.0,Asia
+1180,Kyrgyzstan,2016,28.0,Asia
+1181,Kyrgyzstan,2017,29.0,Asia
+1182,Kyrgyzstan,2018,29.0,Asia
+1183,Kyrgyzstan,2019,30.0,Asia
+1184,Kyrgyzstan,2020,31.0,Asia
+1185,Kyrgyzstan,2021,27.0,Asia
+1186,Kyrgyzstan,2022,27.0,Asia
+1187,Kyrgyzstan,2023,26.0,Asia
+1188,Kyrgyzstan,2024,25.0,Asia
+1189,Laos,2012,21.0,Asia
+1190,Laos,2013,26.0,Asia
+1191,Laos,2014,25.0,Asia
+1192,Laos,2015,25.0,Asia
+1193,Laos,2016,30.0,Asia
+1194,Laos,2017,29.0,Asia
+1195,Laos,2018,29.0,Asia
+1196,Laos,2019,29.0,Asia
+1197,Laos,2020,29.0,Asia
+1198,Laos,2021,30.0,Asia
+1199,Laos,2022,31.0,Asia
+1200,Laos,2023,28.0,Asia
+1201,Laos,2024,33.0,Asia
+1202,Latvia,2012,49.0,Asia
+1203,Latvia,2013,53.0,Asia
+1204,Latvia,2014,55.0,Asia
+1205,Latvia,2015,56.0,Asia
+1206,Latvia,2016,57.0,Asia
+1207,Latvia,2017,58.0,Asia
+1208,Latvia,2018,58.0,Asia
+1209,Latvia,2019,56.0,Asia
+1210,Latvia,2020,57.0,Asia
+1211,Latvia,2021,59.0,Asia
+1212,Latvia,2022,59.0,Asia
+1213,Latvia,2023,60.0,Europe
+1214,Latvia,2024,59.0,Europe
+1215,Lebanon,2012,30.0,Europe
+1216,Lebanon,2013,28.0,Europe
+1217,Lebanon,2014,27.0,Europe
+1218,Lebanon,2015,28.0,Europe
+1219,Lebanon,2016,28.0,Europe
+1220,Lebanon,2017,28.0,Europe
+1221,Lebanon,2018,28.0,Europe
+1222,Lebanon,2019,28.0,Europe
+1223,Lebanon,2020,25.0,Europe
+1224,Lebanon,2021,24.0,Europe
+1225,Lebanon,2022,24.0,Europe
+1226,Lebanon,2023,24.0,Asia
+1227,Lebanon,2024,22.0,Asia
+1228,Lesotho,2012,45.0,Asia
+1229,Lesotho,2013,49.0,Asia
+1230,Lesotho,2014,49.0,Asia
+1231,Lesotho,2015,44.0,Asia
+1232,Lesotho,2016,39.0,Asia
+1233,Lesotho,2017,42.0,Asia
+1234,Lesotho,2018,41.0,Asia
+1235,Lesotho,2019,40.0,Asia
+1236,Lesotho,2020,41.0,Asia
+1237,Lesotho,2021,38.0,Asia
+1238,Lesotho,2022,37.0,Asia
+1239,Lesotho,2023,39.0,Africa
+1240,Lesotho,2024,37.0,Africa
+1241,Liberia,2012,41.0,Africa
+1242,Liberia,2013,38.0,Africa
+1243,Liberia,2014,37.0,Africa
+1244,Liberia,2015,37.0,Africa
+1245,Liberia,2016,37.0,Africa
+1246,Liberia,2017,31.0,Africa
+1247,Liberia,2018,32.0,Africa
+1248,Liberia,2019,28.0,Africa
+1249,Liberia,2020,28.0,Africa
+1250,Liberia,2021,29.0,Africa
+1251,Liberia,2022,26.0,Africa
+1252,Liberia,2023,25.0,Africa
+1253,Liberia,2024,27.0,Africa
+1254,Libya,2012,21.0,Africa
+1255,Libya,2013,15.0,Africa
+1256,Libya,2014,18.0,Africa
+1257,Libya,2015,16.0,Africa
+1258,Libya,2016,14.0,Africa
+1259,Libya,2017,17.0,Africa
+1260,Libya,2018,17.0,Africa
+1261,Libya,2019,18.0,Africa
+1262,Libya,2020,17.0,Africa
+1263,Libya,2021,17.0,Africa
+1264,Libya,2022,17.0,Africa
+1265,Libya,2023,18.0,Africa
+1266,Libya,2024,13.0,Africa
+1267,Liechtenstein,2023,43.02595155709343,Europe
+1268,Lithuania,2012,54.0,Europe
+1269,Lithuania,2013,57.0,Europe
+1270,Lithuania,2014,58.0,Europe
+1271,Lithuania,2015,59.0,Europe
+1272,Lithuania,2016,59.0,Europe
+1273,Lithuania,2017,59.0,Europe
+1274,Lithuania,2018,59.0,Europe
+1275,Lithuania,2019,60.0,Europe
+1276,Lithuania,2020,60.0,Europe
+1277,Lithuania,2021,61.0,Europe
+1278,Lithuania,2022,62.0,Europe
+1279,Lithuania,2023,61.0,Europe
+1280,Lithuania,2024,63.0,Europe
+1281,Luxembourg,2012,80.0,Europe
+1282,Luxembourg,2013,80.0,Europe
+1283,Luxembourg,2014,82.0,Europe
+1284,Luxembourg,2015,85.0,Europe
+1285,Luxembourg,2016,81.0,Europe
+1286,Luxembourg,2017,82.0,Europe
+1287,Luxembourg,2018,81.0,Europe
+1288,Luxembourg,2019,80.0,Europe
+1289,Luxembourg,2020,80.0,Europe
+1290,Luxembourg,2021,81.0,Europe
+1291,Luxembourg,2022,77.0,Europe
+1292,Luxembourg,2023,78.0,Europe
+1293,Luxembourg,2024,81.0,Europe
+1294,Macao,2023,43.02595155709343,Asia
+1295,Madagascar,2012,32.0,Asia
+1296,Madagascar,2013,28.0,Asia
+1297,Madagascar,2014,28.0,Asia
+1298,Madagascar,2015,28.0,Asia
+1299,Madagascar,2016,26.0,Asia
+1300,Madagascar,2017,24.0,Asia
+1301,Madagascar,2018,25.0,Asia
+1302,Madagascar,2019,24.0,Asia
+1303,Madagascar,2020,25.0,Asia
+1304,Madagascar,2021,26.0,Asia
+1305,Madagascar,2022,26.0,Asia
+1306,Madagascar,2023,25.0,Africa
+1307,Madagascar,2024,26.0,Africa
+1308,Malawi,2012,37.0,Africa
+1309,Malawi,2013,37.0,Africa
+1310,Malawi,2014,33.0,Africa
+1311,Malawi,2015,31.0,Africa
+1312,Malawi,2016,31.0,Africa
+1313,Malawi,2017,31.0,Africa
+1314,Malawi,2018,32.0,Africa
+1315,Malawi,2019,31.0,Africa
+1316,Malawi,2020,30.0,Africa
+1317,Malawi,2021,35.0,Africa
+1318,Malawi,2022,34.0,Africa
+1319,Malawi,2023,34.0,Africa
+1320,Malawi,2024,34.0,Africa
+1321,Malaysia,2012,49.0,Africa
+1322,Malaysia,2013,50.0,Africa
+1323,Malaysia,2014,52.0,Africa
+1324,Malaysia,2015,50.0,Africa
+1325,Malaysia,2016,49.0,Africa
+1326,Malaysia,2017,47.0,Africa
+1327,Malaysia,2018,47.0,Africa
+1328,Malaysia,2019,53.0,Africa
+1329,Malaysia,2020,51.0,Africa
+1330,Malaysia,2021,48.0,Africa
+1331,Malaysia,2022,47.0,Africa
+1332,Malaysia,2023,50.0,Asia
+1333,Malaysia,2024,50.0,Asia
+1334,Maldives,2016,36.0,Asia
+1335,Maldives,2017,33.0,Asia
+1336,Maldives,2018,31.0,Asia
+1337,Maldives,2019,29.0,Asia
+1338,Maldives,2020,43.0,Asia
+1339,Maldives,2021,40.0,Asia
+1340,Maldives,2022,40.0,Asia
+1341,Maldives,2023,39.0,Asia
+1342,Maldives,2024,38.0,Asia
+1343,Mali,2012,34.0,Asia
+1344,Mali,2013,28.0,Asia
+1345,Mali,2014,32.0,Asia
+1346,Mali,2015,35.0,Asia
+1347,Mali,2016,32.0,Asia
+1348,Mali,2017,31.0,Asia
+1349,Mali,2018,32.0,Asia
+1350,Mali,2019,29.0,Asia
+1351,Mali,2020,30.0,Asia
+1352,Mali,2021,29.0,Asia
+1353,Mali,2022,28.0,Asia
+1354,Mali,2023,28.0,Africa
+1355,Mali,2024,27.0,Africa
+1356,Malta,2012,57.0,Africa
+1357,Malta,2013,56.0,Africa
+1358,Malta,2014,55.0,Africa
+1359,Malta,2015,60.0,Africa
+1360,Malta,2016,55.0,Africa
+1361,Malta,2017,56.0,Africa
+1362,Malta,2018,54.0,Africa
+1363,Malta,2019,54.0,Africa
+1364,Malta,2020,53.0,Africa
+1365,Malta,2021,54.0,Africa
+1366,Malta,2022,51.0,Africa
+1367,Malta,2023,51.0,Europe
+1368,Malta,2024,46.0,Europe
+1369,Marshall Islands,2023,43.02595155709343,Oceania
+1370,Martinique,2023,43.02595155709343,North America
+1371,Mauritania,2012,31.0,North America
+1372,Mauritania,2013,30.0,North America
+1373,Mauritania,2014,30.0,North America
+1374,Mauritania,2015,31.0,North America
+1375,Mauritania,2016,27.0,North America
+1376,Mauritania,2017,28.0,North America
+1377,Mauritania,2018,27.0,North America
+1378,Mauritania,2019,28.0,North America
+1379,Mauritania,2020,29.0,North America
+1380,Mauritania,2021,28.0,North America
+1381,Mauritania,2022,30.0,North America
+1382,Mauritania,2023,30.0,Africa
+1383,Mauritania,2024,30.0,Africa
+1384,Mauritius,2012,57.0,Africa
+1385,Mauritius,2013,52.0,Africa
+1386,Mauritius,2014,54.0,Africa
+1387,Mauritius,2015,53.0,Africa
+1388,Mauritius,2016,54.0,Africa
+1389,Mauritius,2017,50.0,Africa
+1390,Mauritius,2018,51.0,Africa
+1391,Mauritius,2019,52.0,Africa
+1392,Mauritius,2020,53.0,Africa
+1393,Mauritius,2021,54.0,Africa
+1394,Mauritius,2022,50.0,Africa
+1395,Mauritius,2023,51.0,Africa
+1396,Mauritius,2024,51.0,Africa
+1397,Mayotte,2023,43.02595155709343,Africa
+1398,Mexico,2012,34.0,Africa
+1399,Mexico,2013,34.0,Africa
+1400,Mexico,2014,35.0,Africa
+1401,Mexico,2015,31.0,Africa
+1402,Mexico,2016,30.0,Africa
+1403,Mexico,2017,29.0,Africa
+1404,Mexico,2018,28.0,Africa
+1405,Mexico,2019,29.0,Africa
+1406,Mexico,2020,31.0,Africa
+1407,Mexico,2021,31.0,Africa
+1408,Mexico,2022,31.0,Africa
+1409,Mexico,2023,31.0,North America
+1410,Mexico,2024,26.0,North America
+1411,Micronesia (country),2023,43.02595155709343,Oceania
+1412,Moldova,2012,36.0,Oceania
+1413,Moldova,2013,35.0,Oceania
+1414,Moldova,2014,35.0,Oceania
+1415,Moldova,2015,33.0,Oceania
+1416,Moldova,2016,30.0,Oceania
+1417,Moldova,2017,31.0,Oceania
+1418,Moldova,2018,33.0,Oceania
+1419,Moldova,2019,32.0,Oceania
+1420,Moldova,2020,34.0,Oceania
+1421,Moldova,2021,36.0,Oceania
+1422,Moldova,2022,39.0,Oceania
+1423,Moldova,2023,42.0,Europe
+1424,Moldova,2024,43.0,Europe
+1425,Monaco,2023,43.02595155709343,Europe
+1426,Mongolia,2012,36.0,Europe
+1427,Mongolia,2013,38.0,Europe
+1428,Mongolia,2014,39.0,Europe
+1429,Mongolia,2015,39.0,Europe
+1430,Mongolia,2016,38.0,Europe
+1431,Mongolia,2017,36.0,Europe
+1432,Mongolia,2018,37.0,Europe
+1433,Mongolia,2019,35.0,Europe
+1434,Mongolia,2020,35.0,Europe
+1435,Mongolia,2021,35.0,Europe
+1436,Mongolia,2022,33.0,Europe
+1437,Mongolia,2023,33.0,Asia
+1438,Mongolia,2024,33.0,Asia
+1439,Montenegro,2012,41.0,Asia
+1440,Montenegro,2013,44.0,Asia
+1441,Montenegro,2014,42.0,Asia
+1442,Montenegro,2015,44.0,Asia
+1443,Montenegro,2016,45.0,Asia
+1444,Montenegro,2017,46.0,Asia
+1445,Montenegro,2018,45.0,Asia
+1446,Montenegro,2019,45.0,Asia
+1447,Montenegro,2020,45.0,Asia
+1448,Montenegro,2021,46.0,Asia
+1449,Montenegro,2022,45.0,Asia
+1450,Montenegro,2023,46.0,Europe
+1451,Montenegro,2024,46.0,Europe
+1452,Montserrat,2023,43.02595155709343,North America
+1453,Morocco,2012,37.0,North America
+1454,Morocco,2013,37.0,North America
+1455,Morocco,2014,39.0,North America
+1456,Morocco,2015,36.0,North America
+1457,Morocco,2016,37.0,North America
+1458,Morocco,2017,40.0,North America
+1459,Morocco,2018,43.0,North America
+1460,Morocco,2019,41.0,North America
+1461,Morocco,2020,40.0,North America
+1462,Morocco,2021,39.0,North America
+1463,Morocco,2022,38.0,North America
+1464,Morocco,2023,38.0,Africa
+1465,Morocco,2024,37.0,Africa
+1466,Mozambique,2012,31.0,Africa
+1467,Mozambique,2013,30.0,Africa
+1468,Mozambique,2014,31.0,Africa
+1469,Mozambique,2015,31.0,Africa
+1470,Mozambique,2016,27.0,Africa
+1471,Mozambique,2017,25.0,Africa
+1472,Mozambique,2018,23.0,Africa
+1473,Mozambique,2019,26.0,Africa
+1474,Mozambique,2020,25.0,Africa
+1475,Mozambique,2021,26.0,Africa
+1476,Mozambique,2022,26.0,Africa
+1477,Mozambique,2023,25.0,Africa
+1478,Mozambique,2024,25.0,Africa
+1479,Myanmar,2012,15.0,Africa
+1480,Myanmar,2013,21.0,Africa
+1481,Myanmar,2014,21.0,Africa
+1482,Myanmar,2015,22.0,Africa
+1483,Myanmar,2016,28.0,Africa
+1484,Myanmar,2017,30.0,Africa
+1485,Myanmar,2018,29.0,Africa
+1486,Myanmar,2019,29.0,Africa
+1487,Myanmar,2020,28.0,Africa
+1488,Myanmar,2021,28.0,Africa
+1489,Myanmar,2022,23.0,Africa
+1490,Myanmar,2023,20.0,Asia
+1491,Myanmar,2024,16.0,Asia
+1492,Namibia,2012,48.0,Asia
+1493,Namibia,2013,48.0,Asia
+1494,Namibia,2014,49.0,Asia
+1495,Namibia,2015,53.0,Asia
+1496,Namibia,2016,52.0,Asia
+1497,Namibia,2017,51.0,Asia
+1498,Namibia,2018,53.0,Asia
+1499,Namibia,2019,52.0,Asia
+1500,Namibia,2020,51.0,Asia
+1501,Namibia,2021,49.0,Asia
+1502,Namibia,2022,49.0,Asia
+1503,Namibia,2023,49.0,Africa
+1504,Namibia,2024,49.0,Africa
+1505,Nauru,2023,43.02595155709343,Oceania
+1506,Nepal,2012,27.0,Oceania
+1507,Nepal,2013,31.0,Oceania
+1508,Nepal,2014,29.0,Oceania
+1509,Nepal,2015,27.0,Oceania
+1510,Nepal,2016,29.0,Oceania
+1511,Nepal,2017,31.0,Oceania
+1512,Nepal,2018,31.0,Oceania
+1513,Nepal,2019,34.0,Oceania
+1514,Nepal,2020,33.0,Oceania
+1515,Nepal,2021,33.0,Oceania
+1516,Nepal,2022,34.0,Oceania
+1517,Nepal,2023,35.0,Asia
+1518,Nepal,2024,34.0,Asia
+1519,Netherlands,2012,84.0,Asia
+1520,Netherlands,2013,83.0,Asia
+1521,Netherlands,2014,83.0,Asia
+1522,Netherlands,2015,84.0,Asia
+1523,Netherlands,2016,83.0,Asia
+1524,Netherlands,2017,82.0,Asia
+1525,Netherlands,2018,82.0,Asia
+1526,Netherlands,2019,82.0,Asia
+1527,Netherlands,2020,82.0,Asia
+1528,Netherlands,2021,82.0,Asia
+1529,Netherlands,2022,80.0,Asia
+1530,Netherlands,2023,79.0,Europe
+1531,Netherlands,2024,78.0,Europe
+1532,Netherlands Antilles,2023,43.02595155709343,North America
+1533,New Caledonia,2023,43.02595155709343,Oceania
+1534,New Zealand,2012,90.0,Oceania
+1535,New Zealand,2013,91.0,Oceania
+1536,New Zealand,2014,91.0,Oceania
+1537,New Zealand,2015,91.0,Oceania
+1538,New Zealand,2016,90.0,Oceania
+1539,New Zealand,2017,89.0,Oceania
+1540,New Zealand,2018,87.0,Oceania
+1541,New Zealand,2019,87.0,Oceania
+1542,New Zealand,2020,88.0,Oceania
+1543,New Zealand,2021,88.0,Oceania
+1544,New Zealand,2022,87.0,Oceania
+1545,New Zealand,2023,85.0,Oceania
+1546,New Zealand,2024,83.0,Oceania
+1547,Nicaragua,2012,29.0,Oceania
+1548,Nicaragua,2013,28.0,Oceania
+1549,Nicaragua,2014,28.0,Oceania
+1550,Nicaragua,2015,27.0,Oceania
+1551,Nicaragua,2016,26.0,Oceania
+1552,Nicaragua,2017,26.0,Oceania
+1553,Nicaragua,2018,25.0,Oceania
+1554,Nicaragua,2019,22.0,Oceania
+1555,Nicaragua,2020,22.0,Oceania
+1556,Nicaragua,2021,20.0,Oceania
+1557,Nicaragua,2022,19.0,Oceania
+1558,Nicaragua,2023,17.0,North America
+1559,Nicaragua,2024,14.0,North America
+1560,Niger,2012,33.0,North America
+1561,Niger,2013,34.0,North America
+1562,Niger,2014,35.0,North America
+1563,Niger,2015,34.0,North America
+1564,Niger,2016,35.0,North America
+1565,Niger,2017,33.0,North America
+1566,Niger,2018,34.0,North America
+1567,Niger,2019,32.0,North America
+1568,Niger,2020,32.0,North America
+1569,Niger,2021,31.0,North America
+1570,Niger,2022,32.0,North America
+1571,Niger,2023,32.0,Africa
+1572,Niger,2024,34.0,Africa
+1573,Nigeria,2012,27.0,Africa
+1574,Nigeria,2013,25.0,Africa
+1575,Nigeria,2014,27.0,Africa
+1576,Nigeria,2015,26.0,Africa
+1577,Nigeria,2016,28.0,Africa
+1578,Nigeria,2017,27.0,Africa
+1579,Nigeria,2018,27.0,Africa
+1580,Nigeria,2019,26.0,Africa
+1581,Nigeria,2020,25.0,Africa
+1582,Nigeria,2021,24.0,Africa
+1583,Nigeria,2022,24.0,Africa
+1584,Nigeria,2023,25.0,Africa
+1585,Nigeria,2024,26.0,Africa
+1586,Niue,2023,43.02595155709343,Oceania
+1587,Norfolk Island,2023,43.02595155709343,Oceania
+1588,North Korea,2012,8.0,Oceania
+1589,North Korea,2013,8.0,Oceania
+1590,North Korea,2014,8.0,Oceania
+1591,North Korea,2015,8.0,Oceania
+1592,North Korea,2016,12.0,Oceania
+1593,North Korea,2017,17.0,Oceania
+1594,North Korea,2018,14.0,Oceania
+1595,North Korea,2019,17.0,Oceania
+1596,North Korea,2020,18.0,Oceania
+1597,North Korea,2021,16.0,Oceania
+1598,North Korea,2022,17.0,Oceania
+1599,North Korea,2023,17.0,Asia
+1600,North Korea,2024,15.0,Asia
+1601,North Macedonia,2012,43.0,Asia
+1602,North Macedonia,2013,44.0,Asia
+1603,North Macedonia,2014,45.0,Asia
+1604,North Macedonia,2015,42.0,Asia
+1605,North Macedonia,2016,37.0,Asia
+1606,North Macedonia,2017,35.0,Asia
+1607,North Macedonia,2018,37.0,Asia
+1608,North Macedonia,2019,35.0,Asia
+1609,North Macedonia,2020,35.0,Asia
+1610,North Macedonia,2021,39.0,Asia
+1611,North Macedonia,2022,40.0,Asia
+1612,North Macedonia,2023,42.0,Europe
+1613,North Macedonia,2024,40.0,Europe
+1614,Northern Mariana Islands,2023,43.02595155709343,Oceania
+1615,Norway,2012,85.0,Oceania
+1616,Norway,2013,86.0,Oceania
+1617,Norway,2014,86.0,Oceania
+1618,Norway,2015,88.0,Oceania
+1619,Norway,2016,85.0,Oceania
+1620,Norway,2017,85.0,Oceania
+1621,Norway,2018,84.0,Oceania
+1622,Norway,2019,84.0,Oceania
+1623,Norway,2020,84.0,Oceania
+1624,Norway,2021,85.0,Oceania
+1625,Norway,2022,84.0,Oceania
+1626,Norway,2023,84.0,Europe
+1627,Norway,2024,81.0,Europe
+1628,Oman,2012,47.0,Europe
+1629,Oman,2013,47.0,Europe
+1630,Oman,2014,45.0,Europe
+1631,Oman,2015,45.0,Europe
+1632,Oman,2016,45.0,Europe
+1633,Oman,2017,44.0,Europe
+1634,Oman,2018,52.0,Europe
+1635,Oman,2019,52.0,Europe
+1636,Oman,2020,54.0,Europe
+1637,Oman,2021,52.0,Europe
+1638,Oman,2022,44.0,Europe
+1639,Oman,2023,43.0,Asia
+1640,Oman,2024,55.0,Asia
+1641,Orange Free State,2023,43.02595155709343,Africa
+1642,Pakistan,2012,27.0,Africa
+1643,Pakistan,2013,28.0,Africa
+1644,Pakistan,2014,29.0,Africa
+1645,Pakistan,2015,30.0,Africa
+1646,Pakistan,2016,32.0,Africa
+1647,Pakistan,2017,32.0,Africa
+1648,Pakistan,2018,33.0,Africa
+1649,Pakistan,2019,32.0,Africa
+1650,Pakistan,2020,31.0,Africa
+1651,Pakistan,2021,28.0,Africa
+1652,Pakistan,2022,27.0,Africa
+1653,Pakistan,2023,29.0,Asia
+1654,Pakistan,2024,27.0,Asia
+1655,Pakistan (former),2023,43.02595155709343,Asia
+1656,Palau,2023,43.02595155709343,Oceania
+1657,Palestine,2023,43.02595155709343,Asia
+1658,Panama,2012,38.0,Asia
+1659,Panama,2013,35.0,Asia
+1660,Panama,2014,37.0,Asia
+1661,Panama,2015,39.0,Asia
+1662,Panama,2016,38.0,Asia
+1663,Panama,2017,37.0,Asia
+1664,Panama,2018,37.0,Asia
+1665,Panama,2019,36.0,Asia
+1666,Panama,2020,35.0,Asia
+1667,Panama,2021,36.0,Asia
+1668,Panama,2022,36.0,Asia
+1669,Panama,2023,35.0,North America
+1670,Panama,2024,33.0,North America
+1671,Papua New Guinea,2012,25.0,North America
+1672,Papua New Guinea,2013,25.0,North America
+1673,Papua New Guinea,2014,25.0,North America
+1674,Papua New Guinea,2015,25.0,North America
+1675,Papua New Guinea,2016,28.0,North America
+1676,Papua New Guinea,2017,29.0,North America
+1677,Papua New Guinea,2018,28.0,North America
+1678,Papua New Guinea,2019,28.0,North America
+1679,Papua New Guinea,2020,27.0,North America
+1680,Papua New Guinea,2021,31.0,North America
+1681,Papua New Guinea,2022,30.0,North America
+1682,Papua New Guinea,2023,29.0,Oceania
+1683,Papua New Guinea,2024,31.0,Oceania
+1684,Paraguay,2012,25.0,Oceania
+1685,Paraguay,2013,24.0,Oceania
+1686,Paraguay,2014,24.0,Oceania
+1687,Paraguay,2015,27.0,Oceania
+1688,Paraguay,2016,30.0,Oceania
+1689,Paraguay,2017,29.0,Oceania
+1690,Paraguay,2018,29.0,Oceania
+1691,Paraguay,2019,28.0,Oceania
+1692,Paraguay,2020,28.0,Oceania
+1693,Paraguay,2021,30.0,Oceania
+1694,Paraguay,2022,28.0,Oceania
+1695,Paraguay,2023,28.0,South America
+1696,Paraguay,2024,24.0,South America
+1697,Peru,2012,38.0,South America
+1698,Peru,2013,38.0,South America
+1699,Peru,2014,38.0,South America
+1700,Peru,2015,36.0,South America
+1701,Peru,2016,35.0,South America
+1702,Peru,2017,37.0,South America
+1703,Peru,2018,35.0,South America
+1704,Peru,2019,36.0,South America
+1705,Peru,2020,38.0,South America
+1706,Peru,2021,36.0,South America
+1707,Peru,2022,36.0,South America
+1708,Peru,2023,33.0,South America
+1709,Peru,2024,31.0,South America
+1710,Philippines,2012,34.0,South America
+1711,Philippines,2013,36.0,South America
+1712,Philippines,2014,38.0,South America
+1713,Philippines,2015,35.0,South America
+1714,Philippines,2016,35.0,South America
+1715,Philippines,2017,34.0,South America
+1716,Philippines,2018,36.0,South America
+1717,Philippines,2019,34.0,South America
+1718,Philippines,2020,34.0,South America
+1719,Philippines,2021,33.0,South America
+1720,Philippines,2022,33.0,South America
+1721,Philippines,2023,34.0,Asia
+1722,Philippines,2024,33.0,Asia
+1723,Pitcairn,2023,43.02595155709343,Oceania
+1724,Poland,2012,58.0,Oceania
+1725,Poland,2013,60.0,Oceania
+1726,Poland,2014,61.0,Oceania
+1727,Poland,2015,63.0,Oceania
+1728,Poland,2016,62.0,Oceania
+1729,Poland,2017,60.0,Oceania
+1730,Poland,2018,60.0,Oceania
+1731,Poland,2019,58.0,Oceania
+1732,Poland,2020,56.0,Oceania
+1733,Poland,2021,56.0,Oceania
+1734,Poland,2022,55.0,Oceania
+1735,Poland,2023,54.0,Europe
+1736,Poland,2024,53.0,Europe
+1737,Portugal,2012,63.0,Europe
+1738,Portugal,2013,62.0,Europe
+1739,Portugal,2014,63.0,Europe
+1740,Portugal,2015,64.0,Europe
+1741,Portugal,2016,62.0,Europe
+1742,Portugal,2017,63.0,Europe
+1743,Portugal,2018,64.0,Europe
+1744,Portugal,2019,62.0,Europe
+1745,Portugal,2020,61.0,Europe
+1746,Portugal,2021,62.0,Europe
+1747,Portugal,2022,62.0,Europe
+1748,Portugal,2023,61.0,Europe
+1749,Portugal,2024,57.0,Europe
+1750,Puerto Rico,2012,63.0,Europe
+1751,Puerto Rico,2013,62.0,Europe
+1752,Puerto Rico,2014,63.0,Europe
+1753,Puerto Rico,2023,43.02595155709343,North America
+1754,Qatar,2012,68.0,North America
+1755,Qatar,2013,68.0,North America
+1756,Qatar,2014,69.0,North America
+1757,Qatar,2015,71.0,North America
+1758,Qatar,2016,61.0,North America
+1759,Qatar,2017,63.0,North America
+1760,Qatar,2018,62.0,North America
+1761,Qatar,2019,62.0,North America
+1762,Qatar,2020,63.0,North America
+1763,Qatar,2021,63.0,North America
+1764,Qatar,2022,58.0,North America
+1765,Qatar,2023,58.0,Asia
+1766,Qatar,2024,59.0,Asia
+1767,Republic of Vietnam,2023,43.02595155709343,Asia
+1768,Reunion,2023,43.02595155709343,Africa
+1769,Romania,2012,44.0,Africa
+1770,Romania,2013,43.0,Africa
+1771,Romania,2014,43.0,Africa
+1772,Romania,2015,46.0,Africa
+1773,Romania,2016,48.0,Africa
+1774,Romania,2017,48.0,Africa
+1775,Romania,2018,47.0,Africa
+1776,Romania,2019,44.0,Africa
+1777,Romania,2020,44.0,Africa
+1778,Romania,2021,45.0,Africa
+1779,Romania,2022,46.0,Africa
+1780,Romania,2023,46.0,Europe
+1781,Romania,2024,46.0,Europe
+1782,Russia,2012,28.0,Europe
+1783,Russia,2013,28.0,Europe
+1784,Russia,2014,27.0,Europe
+1785,Russia,2015,29.0,Europe
+1786,Russia,2016,29.0,Europe
+1787,Russia,2017,29.0,Europe
+1788,Russia,2018,28.0,Europe
+1789,Russia,2019,28.0,Europe
+1790,Russia,2020,30.0,Europe
+1791,Russia,2021,29.0,Europe
+1792,Russia,2022,28.0,Europe
+1793,Russia,2023,26.0,Europe
+1794,Russia,2024,22.0,Europe
+1795,Rwanda,2012,53.0,Europe
+1796,Rwanda,2013,53.0,Europe
+1797,Rwanda,2014,49.0,Europe
+1798,Rwanda,2015,54.0,Europe
+1799,Rwanda,2016,54.0,Europe
+1800,Rwanda,2017,55.0,Europe
+1801,Rwanda,2018,56.0,Europe
+1802,Rwanda,2019,53.0,Europe
+1803,Rwanda,2020,54.0,Europe
+1804,Rwanda,2021,53.0,Europe
+1805,Rwanda,2022,51.0,Europe
+1806,Rwanda,2023,53.0,Africa
+1807,Rwanda,2024,57.0,Africa
+1808,Saint Barthelemy,2023,43.02595155709343,North America
+1809,Saint Helena,2023,43.02595155709343,Africa
+1810,Saint Kitts and Nevis,2023,43.02595155709343,North America
+1811,Saint Lucia,2012,71.0,North America
+1812,Saint Lucia,2013,71.0,North America
+1813,Saint Lucia,2014,71.0,North America
+1814,Saint Lucia,2016,60.0,North America
+1815,Saint Lucia,2017,55.0,North America
+1816,Saint Lucia,2018,55.0,North America
+1817,Saint Lucia,2019,55.0,North America
+1818,Saint Lucia,2020,56.0,North America
+1819,Saint Lucia,2021,56.0,North America
+1820,Saint Lucia,2022,55.0,North America
+1821,Saint Lucia,2023,55.0,North America
+1822,Saint Lucia,2024,59.0,North America
+1823,Saint Martin (French part),2023,43.02595155709343,North America
+1824,Saint Pierre and Miquelon,2023,43.02595155709343,North America
+1825,Saint Vincent and the Grenadines,2012,62.0,North America
+1826,Saint Vincent and the Grenadines,2013,62.0,North America
+1827,Saint Vincent and the Grenadines,2014,62.0,North America
+1828,Saint Vincent and the Grenadines,2016,60.0,North America
+1829,Saint Vincent and the Grenadines,2017,58.0,North America
+1830,Saint Vincent and the Grenadines,2018,58.0,North America
+1831,Saint Vincent and the Grenadines,2019,59.0,North America
+1832,Saint Vincent and the Grenadines,2020,59.0,North America
+1833,Saint Vincent and the Grenadines,2021,59.0,North America
+1834,Saint Vincent and the Grenadines,2022,60.0,North America
+1835,Saint Vincent and the Grenadines,2023,60.0,North America
+1836,Saint Vincent and the Grenadines,2024,63.0,North America
+1837,Samoa,2023,43.02595155709343,Oceania
+1838,San Marino,2023,43.02595155709343,Europe
+1839,Sao Tome and Principe,2012,42.0,Europe
+1840,Sao Tome and Principe,2013,42.0,Europe
+1841,Sao Tome and Principe,2014,42.0,Europe
+1842,Sao Tome and Principe,2015,42.0,Europe
+1843,Sao Tome and Principe,2016,46.0,Europe
+1844,Sao Tome and Principe,2017,46.0,Europe
+1845,Sao Tome and Principe,2018,46.0,Europe
+1846,Sao Tome and Principe,2019,46.0,Europe
+1847,Sao Tome and Principe,2020,47.0,Europe
+1848,Sao Tome and Principe,2021,45.0,Europe
+1849,Sao Tome and Principe,2022,45.0,Europe
+1850,Sao Tome and Principe,2023,45.0,Africa
+1851,Sao Tome and Principe,2024,45.0,Africa
+1852,Saudi Arabia,2012,44.0,Africa
+1853,Saudi Arabia,2013,46.0,Africa
+1854,Saudi Arabia,2014,49.0,Africa
+1855,Saudi Arabia,2015,52.0,Africa
+1856,Saudi Arabia,2016,46.0,Africa
+1857,Saudi Arabia,2017,49.0,Africa
+1858,Saudi Arabia,2018,49.0,Africa
+1859,Saudi Arabia,2019,53.0,Africa
+1860,Saudi Arabia,2020,53.0,Africa
+1861,Saudi Arabia,2021,53.0,Africa
+1862,Saudi Arabia,2022,51.0,Africa
+1863,Saudi Arabia,2023,52.0,Asia
+1864,Saudi Arabia,2024,59.0,Asia
+1865,Senegal,2012,36.0,Asia
+1866,Senegal,2013,41.0,Asia
+1867,Senegal,2014,43.0,Asia
+1868,Senegal,2015,44.0,Asia
+1869,Senegal,2016,45.0,Asia
+1870,Senegal,2017,45.0,Asia
+1871,Senegal,2018,45.0,Asia
+1872,Senegal,2019,45.0,Asia
+1873,Senegal,2020,45.0,Asia
+1874,Senegal,2021,43.0,Asia
+1875,Senegal,2022,43.0,Asia
+1876,Senegal,2023,43.0,Africa
+1877,Senegal,2024,45.0,Africa
+1878,Serbia,2012,39.0,Africa
+1879,Serbia,2013,42.0,Africa
+1880,Serbia,2014,41.0,Africa
+1881,Serbia,2015,40.0,Africa
+1882,Serbia,2016,42.0,Africa
+1883,Serbia,2017,41.0,Africa
+1884,Serbia,2018,39.0,Africa
+1885,Serbia,2019,39.0,Africa
+1886,Serbia,2020,38.0,Africa
+1887,Serbia,2021,38.0,Africa
+1888,Serbia,2022,36.0,Africa
+1889,Serbia,2023,36.0,Europe
+1890,Serbia,2024,35.0,Europe
+1891,Serbia and Montenegro,2023,43.02595155709343,Europe
+1892,Seychelles,2012,52.0,Europe
+1893,Seychelles,2013,54.0,Europe
+1894,Seychelles,2014,55.0,Europe
+1895,Seychelles,2015,55.0,Europe
+1896,Seychelles,2017,60.0,Europe
+1897,Seychelles,2018,66.0,Europe
+1898,Seychelles,2019,66.0,Europe
+1899,Seychelles,2020,66.0,Europe
+1900,Seychelles,2021,70.0,Europe
+1901,Seychelles,2022,70.0,Europe
+1902,Seychelles,2023,71.0,Africa
+1903,Seychelles,2024,72.0,Africa
+1904,Sierra Leone,2012,31.0,Africa
+1905,Sierra Leone,2013,30.0,Africa
+1906,Sierra Leone,2014,31.0,Africa
+1907,Sierra Leone,2015,29.0,Africa
+1908,Sierra Leone,2016,30.0,Africa
+1909,Sierra Leone,2017,30.0,Africa
+1910,Sierra Leone,2018,30.0,Africa
+1911,Sierra Leone,2019,33.0,Africa
+1912,Sierra Leone,2020,33.0,Africa
+1913,Sierra Leone,2021,34.0,Africa
+1914,Sierra Leone,2022,34.0,Africa
+1915,Sierra Leone,2023,35.0,Africa
+1916,Sierra Leone,2024,33.0,Africa
+1917,Singapore,2012,87.0,Africa
+1918,Singapore,2013,86.0,Africa
+1919,Singapore,2014,84.0,Africa
+1920,Singapore,2015,85.0,Africa
+1921,Singapore,2016,84.0,Africa
+1922,Singapore,2017,84.0,Africa
+1923,Singapore,2018,85.0,Africa
+1924,Singapore,2019,85.0,Africa
+1925,Singapore,2020,85.0,Africa
+1926,Singapore,2021,85.0,Africa
+1927,Singapore,2022,83.0,Africa
+1928,Singapore,2023,83.0,Asia
+1929,Singapore,2024,84.0,Asia
+1930,Sint Maarten (Dutch part),2023,43.02595155709343,North America
+1931,Slovakia,2012,46.0,North America
+1932,Slovakia,2013,47.0,North America
+1933,Slovakia,2014,50.0,North America
+1934,Slovakia,2015,51.0,North America
+1935,Slovakia,2016,51.0,North America
+1936,Slovakia,2017,50.0,North America
+1937,Slovakia,2018,50.0,North America
+1938,Slovakia,2019,50.0,North America
+1939,Slovakia,2020,49.0,North America
+1940,Slovakia,2021,52.0,North America
+1941,Slovakia,2022,53.0,North America
+1942,Slovakia,2023,54.0,Europe
+1943,Slovakia,2024,49.0,Europe
+1944,Slovenia,2012,61.0,Europe
+1945,Slovenia,2013,57.0,Europe
+1946,Slovenia,2014,58.0,Europe
+1947,Slovenia,2015,60.0,Europe
+1948,Slovenia,2016,61.0,Europe
+1949,Slovenia,2017,61.0,Europe
+1950,Slovenia,2018,60.0,Europe
+1951,Slovenia,2019,60.0,Europe
+1952,Slovenia,2020,60.0,Europe
+1953,Slovenia,2021,57.0,Europe
+1954,Slovenia,2022,56.0,Europe
+1955,Slovenia,2023,56.0,Europe
+1956,Slovenia,2024,60.0,Europe
+1957,Solomon Islands,2016,42.0,Europe
+1958,Solomon Islands,2017,39.0,Europe
+1959,Solomon Islands,2018,44.0,Europe
+1960,Solomon Islands,2019,42.0,Europe
+1961,Solomon Islands,2020,42.0,Europe
+1962,Solomon Islands,2021,43.0,Europe
+1963,Solomon Islands,2022,42.0,Europe
+1964,Solomon Islands,2023,43.0,Oceania
+1965,Solomon Islands,2024,43.0,Oceania
+1966,Somalia,2012,8.0,Oceania
+1967,Somalia,2013,8.0,Oceania
+1968,Somalia,2014,8.0,Oceania
+1969,Somalia,2015,8.0,Oceania
+1970,Somalia,2016,10.0,Oceania
+1971,Somalia,2017,9.0,Oceania
+1972,Somalia,2018,10.0,Oceania
+1973,Somalia,2019,9.0,Oceania
+1974,Somalia,2020,12.0,Oceania
+1975,Somalia,2021,13.0,Oceania
+1976,Somalia,2022,12.0,Oceania
+1977,Somalia,2023,11.0,Africa
+1978,Somalia,2024,9.0,Africa
+1979,South Africa,2012,43.0,Africa
+1980,South Africa,2013,42.0,Africa
+1981,South Africa,2014,44.0,Africa
+1982,South Africa,2015,44.0,Africa
+1983,South Africa,2016,45.0,Africa
+1984,South Africa,2017,43.0,Africa
+1985,South Africa,2018,43.0,Africa
+1986,South Africa,2019,44.0,Africa
+1987,South Africa,2020,44.0,Africa
+1988,South Africa,2021,44.0,Africa
+1989,South Africa,2022,43.0,Africa
+1990,South Africa,2023,41.0,Africa
+1991,South Africa,2024,41.0,Africa
+1992,South Georgia and the South Sandwich Islands,2023,43.02595155709343,South America
+1993,South Korea,2012,56.0,South America
+1994,South Korea,2013,55.0,South America
+1995,South Korea,2014,55.0,South America
+1996,South Korea,2015,54.0,South America
+1997,South Korea,2016,53.0,South America
+1998,South Korea,2017,54.0,South America
+1999,South Korea,2018,57.0,South America
+2000,South Korea,2019,59.0,South America
+2001,South Korea,2020,61.0,South America
+2002,South Korea,2021,62.0,South America
+2003,South Korea,2022,63.0,South America
+2004,South Korea,2023,63.0,Asia
+2005,South Korea,2024,64.0,Asia
+2006,South Sudan,2013,14.0,Asia
+2007,South Sudan,2014,15.0,Asia
+2008,South Sudan,2015,15.0,Asia
+2009,South Sudan,2016,11.0,Asia
+2010,South Sudan,2017,12.0,Asia
+2011,South Sudan,2018,13.0,Asia
+2012,South Sudan,2019,12.0,Asia
+2013,South Sudan,2020,12.0,Asia
+2014,South Sudan,2021,11.0,Asia
+2015,South Sudan,2022,13.0,Asia
+2016,South Sudan,2023,13.0,Africa
+2017,South Sudan,2024,8.0,Africa
+2018,Spain,2012,65.0,Africa
+2019,Spain,2013,59.0,Africa
+2020,Spain,2014,60.0,Africa
+2021,Spain,2015,58.0,Africa
+2022,Spain,2016,58.0,Africa
+2023,Spain,2017,57.0,Africa
+2024,Spain,2018,58.0,Africa
+2025,Spain,2019,62.0,Africa
+2026,Spain,2020,62.0,Africa
+2027,Spain,2021,61.0,Africa
+2028,Spain,2022,60.0,Africa
+2029,Spain,2023,60.0,Europe
+2030,Spain,2024,56.0,Europe
+2031,Sri Lanka,2012,40.0,Europe
+2032,Sri Lanka,2013,37.0,Europe
+2033,Sri Lanka,2014,38.0,Europe
+2034,Sri Lanka,2015,37.0,Europe
+2035,Sri Lanka,2016,36.0,Europe
+2036,Sri Lanka,2017,38.0,Europe
+2037,Sri Lanka,2018,38.0,Europe
+2038,Sri Lanka,2019,38.0,Europe
+2039,Sri Lanka,2020,38.0,Europe
+2040,Sri Lanka,2021,37.0,Europe
+2041,Sri Lanka,2022,36.0,Europe
+2042,Sri Lanka,2023,34.0,Asia
+2043,Sri Lanka,2024,32.0,Asia
+2044,Sudan,2012,13.0,Asia
+2045,Sudan,2013,11.0,Asia
+2046,Sudan,2014,11.0,Asia
+2047,Sudan,2015,12.0,Asia
+2048,Sudan,2016,14.0,Asia
+2049,Sudan,2017,16.0,Asia
+2050,Sudan,2018,16.0,Asia
+2051,Sudan,2019,16.0,Asia
+2052,Sudan,2020,16.0,Asia
+2053,Sudan,2021,20.0,Asia
+2054,Sudan,2022,22.0,Asia
+2055,Sudan,2023,20.0,Africa
+2056,Sudan,2024,15.0,Africa
+2057,Suriname,2012,37.0,Africa
+2058,Suriname,2013,36.0,Africa
+2059,Suriname,2014,36.0,Africa
+2060,Suriname,2015,36.0,Africa
+2061,Suriname,2016,45.0,Africa
+2062,Suriname,2017,41.0,Africa
+2063,Suriname,2018,43.0,Africa
+2064,Suriname,2019,44.0,Africa
+2065,Suriname,2020,38.0,Africa
+2066,Suriname,2021,39.0,Africa
+2067,Suriname,2022,40.0,Africa
+2068,Suriname,2023,40.0,South America
+2069,Suriname,2024,40.0,South America
+2070,Sweden,2012,88.0,South America
+2071,Sweden,2013,89.0,South America
+2072,Sweden,2014,87.0,South America
+2073,Sweden,2015,89.0,South America
+2074,Sweden,2016,88.0,South America
+2075,Sweden,2017,84.0,South America
+2076,Sweden,2018,85.0,South America
+2077,Sweden,2019,85.0,South America
+2078,Sweden,2020,85.0,South America
+2079,Sweden,2021,85.0,South America
+2080,Sweden,2022,83.0,South America
+2081,Sweden,2023,82.0,Europe
+2082,Sweden,2024,80.0,Europe
+2083,Switzerland,2012,86.0,Europe
+2084,Switzerland,2013,85.0,Europe
+2085,Switzerland,2014,86.0,Europe
+2086,Switzerland,2015,86.0,Europe
+2087,Switzerland,2016,86.0,Europe
+2088,Switzerland,2017,85.0,Europe
+2089,Switzerland,2018,85.0,Europe
+2090,Switzerland,2019,85.0,Europe
+2091,Switzerland,2020,85.0,Europe
+2092,Switzerland,2021,84.0,Europe
+2093,Switzerland,2022,82.0,Europe
+2094,Switzerland,2023,82.0,Europe
+2095,Switzerland,2024,81.0,Europe
+2096,Syria,2012,26.0,Europe
+2097,Syria,2013,17.0,Europe
+2098,Syria,2014,20.0,Europe
+2099,Syria,2015,18.0,Europe
+2100,Syria,2016,13.0,Europe
+2101,Syria,2017,14.0,Europe
+2102,Syria,2018,13.0,Europe
+2103,Syria,2019,13.0,Europe
+2104,Syria,2020,14.0,Europe
+2105,Syria,2021,13.0,Europe
+2106,Syria,2022,13.0,Europe
+2107,Syria,2023,13.0,Asia
+2108,Syria,2024,12.0,Asia
+2109,Taiwan,2012,61.0,Asia
+2110,Taiwan,2013,61.0,Asia
+2111,Taiwan,2014,61.0,Asia
+2112,Taiwan,2015,62.0,Asia
+2113,Taiwan,2016,61.0,Asia
+2114,Taiwan,2017,63.0,Asia
+2115,Taiwan,2018,63.0,Asia
+2116,Taiwan,2019,65.0,Asia
+2117,Taiwan,2020,65.0,Asia
+2118,Taiwan,2021,68.0,Asia
+2119,Taiwan,2022,68.0,Asia
+2120,Taiwan,2023,67.0,Asia
+2121,Taiwan,2024,67.0,Asia
+2122,Tajikistan,2012,22.0,Asia
+2123,Tajikistan,2013,22.0,Asia
+2124,Tajikistan,2014,23.0,Asia
+2125,Tajikistan,2015,26.0,Asia
+2126,Tajikistan,2016,25.0,Asia
+2127,Tajikistan,2017,21.0,Asia
+2128,Tajikistan,2018,25.0,Asia
+2129,Tajikistan,2019,25.0,Asia
+2130,Tajikistan,2020,25.0,Asia
+2131,Tajikistan,2021,25.0,Asia
+2132,Tajikistan,2022,24.0,Asia
+2133,Tajikistan,2023,20.0,Asia
+2134,Tajikistan,2024,19.0,Asia
+2135,Tanzania,2012,35.0,Asia
+2136,Tanzania,2013,33.0,Asia
+2137,Tanzania,2014,31.0,Asia
+2138,Tanzania,2015,30.0,Asia
+2139,Tanzania,2016,32.0,Asia
+2140,Tanzania,2017,36.0,Asia
+2141,Tanzania,2018,36.0,Asia
+2142,Tanzania,2019,37.0,Asia
+2143,Tanzania,2020,38.0,Asia
+2144,Tanzania,2021,39.0,Asia
+2145,Tanzania,2022,38.0,Asia
+2146,Tanzania,2023,40.0,Africa
+2147,Tanzania,2024,41.0,Africa
+2148,Thailand,2012,37.0,Africa
+2149,Thailand,2013,35.0,Africa
+2150,Thailand,2014,38.0,Africa
+2151,Thailand,2015,38.0,Africa
+2152,Thailand,2016,35.0,Africa
+2153,Thailand,2017,37.0,Africa
+2154,Thailand,2018,36.0,Africa
+2155,Thailand,2019,36.0,Africa
+2156,Thailand,2020,36.0,Africa
+2157,Thailand,2021,35.0,Africa
+2158,Thailand,2022,36.0,Africa
+2159,Thailand,2023,35.0,Asia
+2160,Thailand,2024,34.0,Asia
+2161,Togo,2012,30.0,Asia
+2162,Togo,2013,29.0,Asia
+2163,Togo,2014,29.0,Asia
+2164,Togo,2015,32.0,Asia
+2165,Togo,2016,32.0,Asia
+2166,Togo,2017,32.0,Asia
+2167,Togo,2018,30.0,Asia
+2168,Togo,2019,29.0,Asia
+2169,Togo,2020,29.0,Asia
+2170,Togo,2021,30.0,Asia
+2171,Togo,2022,30.0,Asia
+2172,Togo,2023,31.0,Africa
+2173,Togo,2024,32.0,Africa
+2174,Tokelau,2023,43.02595155709343,Oceania
+2175,Tonga,2023,43.02595155709343,Oceania
+2176,Trinidad and Tobago,2012,39.0,Oceania
+2177,Trinidad and Tobago,2013,38.0,Oceania
+2178,Trinidad and Tobago,2014,38.0,Oceania
+2179,Trinidad and Tobago,2015,39.0,Oceania
+2180,Trinidad and Tobago,2016,35.0,Oceania
+2181,Trinidad and Tobago,2017,41.0,Oceania
+2182,Trinidad and Tobago,2018,41.0,Oceania
+2183,Trinidad and Tobago,2019,40.0,Oceania
+2184,Trinidad and Tobago,2020,40.0,Oceania
+2185,Trinidad and Tobago,2021,41.0,Oceania
+2186,Trinidad and Tobago,2022,42.0,Oceania
+2187,Trinidad and Tobago,2023,42.0,North America
+2188,Trinidad and Tobago,2024,41.0,North America
+2189,Tunisia,2012,41.0,North America
+2190,Tunisia,2013,41.0,North America
+2191,Tunisia,2014,40.0,North America
+2192,Tunisia,2015,38.0,North America
+2193,Tunisia,2016,41.0,North America
+2194,Tunisia,2017,42.0,North America
+2195,Tunisia,2018,43.0,North America
+2196,Tunisia,2019,43.0,North America
+2197,Tunisia,2020,44.0,North America
+2198,Tunisia,2021,44.0,North America
+2199,Tunisia,2022,40.0,North America
+2200,Tunisia,2023,40.0,Africa
+2201,Tunisia,2024,39.0,Africa
+2202,Turkey,2012,49.0,Africa
+2203,Turkey,2013,50.0,Africa
+2204,Turkey,2014,45.0,Africa
+2205,Turkey,2015,42.0,Africa
+2206,Turkey,2016,41.0,Africa
+2207,Turkey,2017,40.0,Africa
+2208,Turkey,2018,41.0,Africa
+2209,Turkey,2019,39.0,Africa
+2210,Turkey,2020,40.0,Africa
+2211,Turkey,2021,38.0,Africa
+2212,Turkey,2022,36.0,Africa
+2213,Turkey,2023,34.0,Asia
+2214,Turkey,2024,34.0,Asia
+2215,Turkmenistan,2012,17.0,Asia
+2216,Turkmenistan,2013,17.0,Asia
+2217,Turkmenistan,2014,17.0,Asia
+2218,Turkmenistan,2015,18.0,Asia
+2219,Turkmenistan,2016,22.0,Asia
+2220,Turkmenistan,2017,19.0,Asia
+2221,Turkmenistan,2018,20.0,Asia
+2222,Turkmenistan,2019,19.0,Asia
+2223,Turkmenistan,2020,19.0,Asia
+2224,Turkmenistan,2021,19.0,Asia
+2225,Turkmenistan,2022,19.0,Asia
+2226,Turkmenistan,2023,18.0,Asia
+2227,Turkmenistan,2024,17.0,Asia
+2228,Turks and Caicos Islands,2023,43.02595155709343,North America
+2229,Tuvalu,2023,43.02595155709343,Oceania
+2230,USSR,2023,43.02595155709343,Europe
+2231,Uganda,2012,29.0,Europe
+2232,Uganda,2013,26.0,Europe
+2233,Uganda,2014,26.0,Europe
+2234,Uganda,2015,25.0,Europe
+2235,Uganda,2016,25.0,Europe
+2236,Uganda,2017,26.0,Europe
+2237,Uganda,2018,26.0,Europe
+2238,Uganda,2019,28.0,Europe
+2239,Uganda,2020,27.0,Europe
+2240,Uganda,2021,27.0,Europe
+2241,Uganda,2022,26.0,Europe
+2242,Uganda,2023,26.0,Africa
+2243,Uganda,2024,26.0,Africa
+2244,Ukraine,2012,26.0,Africa
+2245,Ukraine,2013,25.0,Africa
+2246,Ukraine,2014,26.0,Africa
+2247,Ukraine,2015,27.0,Africa
+2248,Ukraine,2016,29.0,Africa
+2249,Ukraine,2017,30.0,Africa
+2250,Ukraine,2018,32.0,Africa
+2251,Ukraine,2019,30.0,Africa
+2252,Ukraine,2020,33.0,Africa
+2253,Ukraine,2021,32.0,Africa
+2254,Ukraine,2022,33.0,Africa
+2255,Ukraine,2023,36.0,Europe
+2256,Ukraine,2024,35.0,Europe
+2257,United Arab Emirates,2012,68.0,Europe
+2258,United Arab Emirates,2013,69.0,Europe
+2259,United Arab Emirates,2014,70.0,Europe
+2260,United Arab Emirates,2015,70.0,Europe
+2261,United Arab Emirates,2016,66.0,Europe
+2262,United Arab Emirates,2017,71.0,Europe
+2263,United Arab Emirates,2018,70.0,Europe
+2264,United Arab Emirates,2019,71.0,Europe
+2265,United Arab Emirates,2020,71.0,Europe
+2266,United Arab Emirates,2021,69.0,Europe
+2267,United Arab Emirates,2022,67.0,Europe
+2268,United Arab Emirates,2023,68.0,Asia
+2269,United Arab Emirates,2024,68.0,Asia
+2270,United Kingdom,2012,74.0,Asia
+2271,United Kingdom,2013,76.0,Asia
+2272,United Kingdom,2014,78.0,Asia
+2273,United Kingdom,2015,81.0,Asia
+2274,United Kingdom,2016,81.0,Asia
+2275,United Kingdom,2017,82.0,Asia
+2276,United Kingdom,2018,80.0,Asia
+2277,United Kingdom,2019,77.0,Asia
+2278,United Kingdom,2020,77.0,Asia
+2279,United Kingdom,2021,78.0,Asia
+2280,United Kingdom,2022,73.0,Asia
+2281,United Kingdom,2023,71.0,Europe
+2282,United Kingdom,2024,71.0,Europe
+2283,United States,2012,73.0,Europe
+2284,United States,2013,73.0,Europe
+2285,United States,2014,74.0,Europe
+2286,United States,2015,76.0,Europe
+2287,United States,2016,74.0,Europe
+2288,United States,2017,75.0,Europe
+2289,United States,2018,71.0,Europe
+2290,United States,2019,69.0,Europe
+2291,United States,2020,67.0,Europe
+2292,United States,2021,67.0,Europe
+2293,United States,2022,69.0,Europe
+2294,United States,2023,69.0,North America
+2295,United States,2024,65.0,North America
+2296,United States Virgin Islands,2023,43.02595155709343,North America
+2297,Uruguay,2012,72.0,North America
+2298,Uruguay,2013,73.0,North America
+2299,Uruguay,2014,73.0,North America
+2300,Uruguay,2015,74.0,North America
+2301,Uruguay,2016,71.0,North America
+2302,Uruguay,2017,70.0,North America
+2303,Uruguay,2018,70.0,North America
+2304,Uruguay,2019,71.0,North America
+2305,Uruguay,2020,71.0,North America
+2306,Uruguay,2021,73.0,North America
+2307,Uruguay,2022,74.0,North America
+2308,Uruguay,2023,73.0,South America
+2309,Uruguay,2024,76.0,South America
+2310,Uzbekistan,2012,17.0,South America
+2311,Uzbekistan,2013,17.0,South America
+2312,Uzbekistan,2014,18.0,South America
+2313,Uzbekistan,2015,19.0,South America
+2314,Uzbekistan,2016,21.0,South America
+2315,Uzbekistan,2017,22.0,South America
+2316,Uzbekistan,2018,23.0,South America
+2317,Uzbekistan,2019,25.0,South America
+2318,Uzbekistan,2020,26.0,South America
+2319,Uzbekistan,2021,28.0,South America
+2320,Uzbekistan,2022,31.0,South America
+2321,Uzbekistan,2023,33.0,Asia
+2322,Uzbekistan,2024,32.0,Asia
+2323,Vanuatu,2017,43.0,Asia
+2324,Vanuatu,2018,46.0,Asia
+2325,Vanuatu,2019,46.0,Asia
+2326,Vanuatu,2020,43.0,Asia
+2327,Vanuatu,2021,45.0,Asia
+2328,Vanuatu,2022,48.0,Asia
+2329,Vanuatu,2023,48.0,Oceania
+2330,Vanuatu,2024,50.0,Oceania
+2331,Vatican,2023,43.02595155709343,Europe
+2332,Venezuela,2012,19.0,Europe
+2333,Venezuela,2013,20.0,Europe
+2334,Venezuela,2014,19.0,Europe
+2335,Venezuela,2015,17.0,Europe
+2336,Venezuela,2016,17.0,Europe
+2337,Venezuela,2017,18.0,Europe
+2338,Venezuela,2018,18.0,Europe
+2339,Venezuela,2019,16.0,Europe
+2340,Venezuela,2020,15.0,Europe
+2341,Venezuela,2021,14.0,Europe
+2342,Venezuela,2022,14.0,Europe
+2343,Venezuela,2023,13.0,South America
+2344,Venezuela,2024,10.0,South America
+2345,Vietnam,2012,31.0,South America
+2346,Vietnam,2013,31.0,South America
+2347,Vietnam,2014,31.0,South America
+2348,Vietnam,2015,31.0,South America
+2349,Vietnam,2016,33.0,South America
+2350,Vietnam,2017,35.0,South America
+2351,Vietnam,2018,33.0,South America
+2352,Vietnam,2019,37.0,South America
+2353,Vietnam,2020,36.0,South America
+2354,Vietnam,2021,39.0,South America
+2355,Vietnam,2022,42.0,South America
+2356,Vietnam,2023,41.0,Asia
+2357,Vietnam,2024,40.0,Asia
+2358,Wallis and Futuna,2023,43.02595155709343,Oceania
+2359,West Germany,2023,43.02595155709343,Europe
+2360,Western Sahara,2023,43.02595155709343,Africa
+2361,Yemen,2012,23.0,Africa
+2362,Yemen,2013,18.0,Africa
+2363,Yemen,2014,19.0,Africa
+2364,Yemen,2015,18.0,Africa
+2365,Yemen,2016,14.0,Africa
+2366,Yemen,2017,16.0,Africa
+2367,Yemen,2018,14.0,Africa
+2368,Yemen,2019,15.0,Africa
+2369,Yemen,2020,15.0,Africa
+2370,Yemen,2021,16.0,Africa
+2371,Yemen,2022,16.0,Africa
+2372,Yemen,2023,16.0,Asia
+2373,Yemen,2024,13.0,Asia
+2374,Yemen Arab Republic,2023,43.02595155709343,Asia
+2375,Yemen People's Republic,2023,43.02595155709343,Asia
+2376,Yugoslavia,2023,43.02595155709343,Europe
+2377,Zambia,2012,37.0,Europe
+2378,Zambia,2013,38.0,Europe
+2379,Zambia,2014,38.0,Europe
+2380,Zambia,2015,38.0,Europe
+2381,Zambia,2016,38.0,Europe
+2382,Zambia,2017,37.0,Europe
+2383,Zambia,2018,35.0,Europe
+2384,Zambia,2019,34.0,Europe
+2385,Zambia,2020,33.0,Europe
+2386,Zambia,2021,33.0,Europe
+2387,Zambia,2022,33.0,Europe
+2388,Zambia,2023,37.0,Africa
+2389,Zambia,2024,39.0,Africa
+2390,Zimbabwe,2012,20.0,Africa
+2391,Zimbabwe,2013,21.0,Africa
+2392,Zimbabwe,2014,21.0,Africa
+2393,Zimbabwe,2015,21.0,Africa
+2394,Zimbabwe,2016,22.0,Africa
+2395,Zimbabwe,2017,22.0,Africa
+2396,Zimbabwe,2018,22.0,Africa
+2397,Zimbabwe,2019,24.0,Africa
+2398,Zimbabwe,2020,24.0,Africa
+2399,Zimbabwe,2021,23.0,Africa
+2400,Zimbabwe,2022,23.0,Africa
+2401,Zimbabwe,2023,24.0,Africa
+2402,Zimbabwe,2024,21.0,Africa
