@@ -1,0 +1,24 @@
+# Ignore AI hallucination.csv
+ai_hallucination.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Jupyter temp files
+*.pyc
+__pycache__/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebook outputs
+*.out
+*.log
+
+# OS files (optional but recommended)
+.DS_Store
+Thumbs.db
